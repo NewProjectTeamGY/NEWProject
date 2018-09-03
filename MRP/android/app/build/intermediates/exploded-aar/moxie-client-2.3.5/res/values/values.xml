@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="moxie_accessible_color_bg">#F9F9F9</color>
+    <color name="moxie_accessible_color_blue_btn">#108EE9</color>
+    <color name="moxie_accessible_color_blue_title">#1A7BDE</color>
+    <color name="moxie_accessible_color_des">#9D9D9D</color>
+    <color name="moxie_accessible_color_dialog_bg">#FFFFFF</color>
+    <color name="moxie_accessible_color_dialog_divider">#E9E9E9</color>
+    <color name="moxie_accessible_color_dialog_sub">#494949</color>
+    <color name="moxie_accessible_color_dialog_title">#000C32</color>
+    <color name="moxie_accessible_color_grey_btn">#9D9D9D</color>
+    <color name="moxie_mailimport_color_blue">#11AAEE</color>
+    <color name="moxie_mailimport_color_button_pressed_gray">#d9dadc</color>
+    <color name="moxie_mailimport_color_gray_1">#fff1f1f1</color>
+    <color name="moxie_mailimport_color_gray_2">#ff333333</color>
+    <color name="moxie_mailimport_color_gray_3">#ff888888</color>
+    <color name="moxie_mailimport_color_gray_4">#ff9b9c9e</color>
+    <color name="moxie_mailimport_color_gray_5">#ffe7e8ea</color>
+    <color name="moxie_mailimport_color_transparent">#00000000</color>
+    <color name="moxie_mailimport_color_white">#ffffffff</color>
+    <color name="moxie_mailimport_main_blue_title">#FF2A2F33</color>
+    <string name="accessibility_activity_des">
+        温馨提示：\n1.请确保已经安装支付宝App，并已登录。\n2.按照提示，开启无障碍功能，进行自动化辅助认证。\n3.认证完成后将关闭无障碍功能，若未关闭请手动关闭该功能
+    </string>
+    <string name="accessibility_description">
+        开启无障碍服务，进行自动化数据辅助认证
+    </string>
+    <string name="accessibility_name"/>
+    <string name="moxie_client_actionbar_left_text">关闭</string>
+    <string name="moxie_client_alipay_webview_title">支付宝认证</string>
+    <string name="moxie_client_btn_cancel">取消</string>
+    <string name="moxie_client_btn_submit">提交</string>
+    <string name="moxie_client_email_box_choose_title">选择邮箱</string>
+    <string name="moxie_client_email_result_title">导入中...</string>
+    <string name="moxie_client_email_verify_loading">获取中…</string>
+    <string name="moxie_client_email_webview_title">邮箱账单认证</string>
+    <string name="moxie_client_jingdong_webview_title">京东认证</string>
+    <string name="moxie_client_linkedin_webview_title">领英认证</string>
+    <string name="moxie_client_qzone_webview_title">QQ认证</string>
+    <string name="moxie_client_taobao_webview_title">淘宝认证</string>
+</resources>
