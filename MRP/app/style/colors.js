@@ -4,12 +4,12 @@
  */
 'use strict';
 const LGColor = {
-	mainLG: ['#4e89eb', '#4e89eb'],
+	mainLG: ['#FC6E2A', '#FC6E2A'],
 	tranLG: ['transparent', 'transparent']
 };
 const app = {
 	rootGrayColor: '#f7f7f7',
-	mainColor: '#4e89eb'
+	mainColor: '#FC6E2A'
 	// subColor: '#ff9a4c'
 };
 const text = {
@@ -31,7 +31,7 @@ const text = {
 };
 
 const background = {
-	mainBg: '#4e89eb',
+	mainBg: '#FC6E2A',
 	whiteBg: '#ffffff', // textPrimary
 	subGrayBg: '#e1e1e1',
 	grayBg: '#e5e5e5',
@@ -43,7 +43,7 @@ const background = {
 };
 
 const border = {
-	mainBorder: '#4e89eb',
+	mainBorder: '#FC6E2A',
 	grayBorder: '#e5e5e5',
 	blueBorder: '#0386ff',
 	ironBorder: '#cccccc',
