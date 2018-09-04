@@ -55,7 +55,7 @@ export default class Center extends Component {
 		return (
 			<View style={General.wrapViewGray}>
 				<Image
-					style={CenterStyle.topBackground}
+					style={CenterStyle.topBackground }
 					source={Platform.OS === 'ios' ? AppSizes.height === 812 ? require('../../images/Center_BgImgX.png')
 						: require('../../images/Center_BgImgIOS.png')
 						: require('../../images/Center_BgImgAndroid.png')}>
