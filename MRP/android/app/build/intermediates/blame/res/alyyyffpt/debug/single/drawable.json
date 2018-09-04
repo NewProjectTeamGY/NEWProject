@@ -1,0 +1,978 @@
+[
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_stroke_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_stroke_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_divider.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_divider.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_survy_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_survy_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\update_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\drawable\\update_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_progress_horizontal_progress.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_progress_horizontal_progress.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_btn_right_button_dialog.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_btn_right_button_dialog.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_right_false_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_right_false_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_onlinebank_ok.png",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_onlinebank_ok.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_im_record_play_right.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_im_record_play_right.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\update_button_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\drawable\\update_button_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_white_right_bottom_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_white_right_bottom_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_btn_left_button_dialog.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_btn_left_button_dialog.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_light_empty.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_light_empty.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_btn_modify.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_btn_modify.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_white_right_bottom_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_white_right_bottom_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_custom_progress.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_custom_progress.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_stroke_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_stroke_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_bg_commodity_link.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_bg_commodity_link.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_take_again.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_take_again.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_semicircle_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_semicircle_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_anim_progress.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_anim_progress.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_voice_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_voice_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_camer_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_camer_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_right_false_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_right_false_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_left_false_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_left_false_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_agree_bg_n.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_agree_bg_n.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_stroke_gray.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_stroke_gray.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_voice_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_voice_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_anim_progress.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_anim_progress.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_im_record_play_left.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_im_record_play_left.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_left_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_left_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_semicircle_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_semicircle_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_selector_stroke_btn_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_selector_stroke_btn_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_white_left_bottom_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_white_left_bottom_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_agree_bg_y.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_agree_bg_y.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_sidebar_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_sidebar_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_btn_right_button_dialog.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_btn_right_button_dialog.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_selector_live_step.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_selector_live_step.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_main_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_main_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_tip_long.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_tip_long.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_id_back.png",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_id_back.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_red.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_red.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_right_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_right_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_onlinebank_time.png",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_onlinebank_time.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_agree_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_agree_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_edit_cursor.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_edit_cursor.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_btn_left_button_dialog.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_btn_left_button_dialog.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_btn_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_btn_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_accessible_dialog_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_agree_bg_n.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_agree_bg_n.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_survy_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_survy_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_live_tip.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_live_tip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_helper_shape_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_helper_shape_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_emoji_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_emoji_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_semicircle_white.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_semicircle_white.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_accessible_btn_bg_disable.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_btn_bg_disable.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_semicircle_white.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_semicircle_white.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_right_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_right_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_sidebar_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_sidebar_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_gradient_divider.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_gradient_divider.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_stroke_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_stroke_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_custom_progress.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_custom_progress.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_red.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_red.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_agree_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_agree_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_take_again.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_take_again.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_im_record_play_left.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_im_record_play_left.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\refresh_loading.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\drawable\\refresh_loading.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_btn_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_btn_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_progress_bg.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_progress_bg.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_corner_blank.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_corner_blank.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_icon_net_error.png",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_icon_net_error.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\update_button_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\drawable\\update_button_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_light_empty.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_light_empty.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_live_tip.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_live_tip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bt_selecter_left.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bt_selecter_left.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_selector_live_step.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_selector_live_step.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_btn_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_btn_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_selector_stroke_btn_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_selector_stroke_btn_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_accessible_btn_bg_selector.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_btn_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_icon_net_error.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_icon_net_error.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_stroke_oval_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_stroke_oval_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_white_top_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_white_top_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_btn_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_btn_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_ic_live_shake.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_ic_live_shake.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_corner_blank.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_corner_blank.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_gray.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_gray.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_id_back.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_id_back.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_dlg_select_singlechoice_check_mark_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_dlg_select_singlechoice_check_mark_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_accessible_btn_bg_disable.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_btn_bg_disable.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_image_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_image_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_gray.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_gray.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_onlinebank_time.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_onlinebank_time.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_main_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_main_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_edit_cursor.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_edit_cursor.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_bright.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_bright.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_accessible_dialog_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_helpersearch_editext.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_helpersearch_editext.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_gradient_divider.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_gradient_divider.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\update_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\drawable\\update_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_gray_left_bottom_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_gray_left_bottom_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_selector_stroke_btn_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_selector_stroke_btn_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_struct_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_struct_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_stroke_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_stroke_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\refresh_loading.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\drawable\\refresh_loading.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_gradient_bg_title.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_gradient_bg_title.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_left_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_left_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_selector_stroke_btn_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_selector_stroke_btn_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_gray_right_bottom_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_gray_right_bottom_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_bg_commodity_link.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_bg_commodity_link.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\search_button.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\drawable\\search_button.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_emoji_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_emoji_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_gray_right_bottom_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_gray_right_bottom_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bt_selecter_right.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bt_selecter_right.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_white_top_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_white_top_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_divider.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_divider.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_progress_bg.png",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_progress_bg.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_imgroup_bg_selector.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_imgroup_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_yellow.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_yellow.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_accessible_btn_bg_selector.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_btn_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_bright.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_bright.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_accessible_btn_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_gradient_bg_title.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_gradient_bg_title.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_helpersearch_editext.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_helpersearch_editext.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\search_button.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\drawable\\search_button.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_tip_long.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_tip_long.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_dlg_select_singlechoice_check_mark_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_dlg_select_singlechoice_check_mark_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bt_selecter_left.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bt_selecter_left.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_white_left_bottom_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_white_left_bottom_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_ic_live_shake.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_ic_live_shake.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_agree_bg_y.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_agree_bg_y.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bg_left_false_corners.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bg_left_false_corners.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_stroke_oval_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_stroke_oval_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_helper_shape_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_helper_shape_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_struct_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_struct_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\puw_bt_selecter_right.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\puw_bt_selecter_right.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_onlinebank_ok.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_onlinebank_ok.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_progress_horizontal_progress.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_progress_horizontal_progress.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_im_record_play_right.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_im_record_play_right.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_stroke_gray.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_stroke_gray.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_mailimport_bg_gray_left_bottom_corner_5dip.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_mailimport_bg_gray_left_bottom_corner_5dip.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_yellow.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_yellow.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_imgroup_bg_selector.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_imgroup_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_accessible_btn_bg.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_camer_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_camer_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_btn_modify.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_btn_modify.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\udesk_selector_image_img.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable\\udesk_selector_image_img.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    }
+]

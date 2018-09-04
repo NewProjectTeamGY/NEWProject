@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\xml\\udesk_provider_paths.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\xml\\udesk_provider_paths.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\xml\\preferences.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\xml\\accessible_crawler_config.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\xml\\accessible_crawler_config.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\xml\\preferences.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\xml\\accessible_crawler_config.xml",
+        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\xml\\accessible_crawler_config.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\xml\\udesk_provider_paths.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\xml\\udesk_provider_paths.xml"
+    }
+]
