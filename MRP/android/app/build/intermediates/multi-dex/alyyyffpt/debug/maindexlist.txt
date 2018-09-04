@@ -64,8 +64,8 @@ com/facebook/imageformat/DefaultImageFormatChecker.class
 com/amap/api/col/sl2/ev.class
 com/facebook/react/devsupport/DebugOverlayController.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserImplApi21.class
-com/facebook/react/uimanager/BaseViewManager.class
 android/support/v4/app/ActionBarDrawerToggle.class
+com/facebook/react/uimanager/BaseViewManager.class
 android/support/v4/media/MediaBrowserCompat$ConnectionCallback.class
 com/authreal/component/VerifyComponent.class
 com/google/android/gms/common/SignInButton$ColorScheme.class
@@ -79,8 +79,8 @@ android/support/v4/media/session/MediaSessionCompat$1.class
 com/facebook/react/flat/DrawImageWithDrawee.class
 com/qmhx/Download/DownloadApkModule.class
 cn/jpush/reactnativejpush/JPushModule.class
-com/facebook/common/media/MediaUtils.class
 android/support/v4/app/FragmentTabHost.class
+com/facebook/common/media/MediaUtils.class
 com/facebook/imagepipeline/common/RotationOptions$RotationAngle.class
 com/authreal/component/LivingComponent.class
 com/facebook/react/views/art/ARTShapeShadowNode.class
@@ -359,8 +359,8 @@ com/facebook/react/flat/DrawCommandManager.class
 com/facebook/react/bridge/NativeModule$NativeMethod.class
 com/facebook/jni/MapIteratorHelper.class
 android/support/v7/widget/RecyclerView$RecyclerListener.class
-com/facebook/react/devsupport/DebugServerException.class
 android/support/v4/widget/SimpleCursorAdapter.class
+com/facebook/react/devsupport/DebugServerException.class
 android/support/v7/app/AppCompatDelegateImplV7.class
 com/moxie/client/tasks/task/LoadSiteConfigTask.class
 com/facebook/react/views/scroll/ReactHorizontalScrollView.class
@@ -475,8 +475,8 @@ com/moxie/client/model/TaskStatusResult.class
 com/moxie/client/manager/MoxieCallBackData.class
 android/support/v4/view/ViewCompatJB.class
 javax/inject/Named.class
-com/facebook/react/cxxbridge/ProxyJavaScriptExecutor.class
 com/google/android/gms/common/zzo.class
+com/facebook/react/cxxbridge/ProxyJavaScriptExecutor.class
 com/google/android/gms/common/GoogleApiAvailability.class
 com/google/android/gms/internal/zzbdm.class
 cn/jpush/reactnativejpush/IdHelper.class
@@ -519,8 +519,8 @@ com/facebook/react/ReactInstanceManagerBuilder.class
 com/facebook/react/common/ShakeDetector.class
 com/authreal/ui/CameraPortraitActivity$6.class
 android/support/v4/media/session/PlaybackStateCompat$MediaKeyAction.class
-com/facebook/cache/disk/DynamicDefaultDiskStorage$State.class
 com/google/android/gms/common/data/DataBuffer.class
+com/facebook/cache/disk/DynamicDefaultDiskStorage$State.class
 com/facebook/react/devsupport/DoubleTapReloadRecognizer.class
 com/google/android/gms/common/internal/zzbw.class
 cn/jiguang/g/a.class
@@ -586,8 +586,8 @@ com/moxie/client/tasks/task/ImportStatusTask$1.class
 com/facebook/react/views/text/CustomStyleSpan.class
 cn/udesk/activity/UdeskOptionsAgentGroupActivity$1.class
 com/moxie/client/webview/CustomWebView.class
-com/facebook/react/modules/appstate/AppStateModule.class
 android/support/v4/widget/ResourceCursorAdapter.class
+com/facebook/react/modules/appstate/AppStateModule.class
 android/support/v4/widget/MaterialProgressDrawable$1.class
 com/moxie/client/commom/CommonAsyncTask$5.class
 com/facebook/react/ReactActivityDelegate.class
