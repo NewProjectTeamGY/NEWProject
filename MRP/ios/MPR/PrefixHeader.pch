@@ -20,7 +20,7 @@
 #import <React/RCTEventEmitter.h>
 //启动闪屏页
 #import "SplashScreen.h"
-//热更新库 CodePush
+//热更新库 CodePush  
 #import <CodePush/CodePush.h>
 //错误收集&数据统计
 #import <Bugly/Bugly.h>
