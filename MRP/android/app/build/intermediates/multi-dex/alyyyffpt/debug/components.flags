@@ -1,5 +1,5 @@
--injars 'E:\RNProjects\qmhx\NEWProject\MRP\android\app\build\intermediates\transforms\jarMerging\alyyyffpt\debug\jars\1\1f\combined.jar'
--outjars 'E:\RNProjects\qmhx\NEWProject\MRP\android\app\build\intermediates\multi-dex\alyyyffpt\debug\componentClasses.jar'
+-injars 'E:\RNProjects\qmhx\MRP\android\app\build\intermediates\transforms\jarMerging\alyyyffpt\debug\jars\1\1f\combined.jar'
+-outjars 'E:\RNProjects\qmhx\MRP\android\app\build\intermediates\multi-dex\alyyyffpt\debug\componentClasses.jar'
 
 -libraryjars 'C:\Users\Martin\AppData\Local\Android\Sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
 
@@ -10,7 +10,7 @@
 -dontpreverify
 -dontnote **
 -dontwarn **
--printconfiguration 'E:\RNProjects\qmhx\NEWProject\MRP\android\app\build\intermediates\multi-dex\alyyyffpt\debug\components.flags'
+-printconfiguration 'E:\RNProjects\qmhx\MRP\android\app\build\intermediates\multi-dex\alyyyffpt\debug\components.flags'
 
 
 -keep class com.qmhx.MainApplication {

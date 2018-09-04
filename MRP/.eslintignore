@@ -1,0 +1,7 @@
+/node_module/*
+/app/config/DataAlgorithm.js
+/app/BqsTest.js
+/app/PayTest.js
+/app/store/index.js
+/app/components/ChangeSwiper/VerticalViewPager.android.js
+.eslintrc.js
