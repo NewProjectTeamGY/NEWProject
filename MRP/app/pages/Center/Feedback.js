@@ -117,8 +117,8 @@ export default class Feedback extends Component {
 				<NavBarCommon
 					title={'意见反馈'}
 					leftAction={() => Jump.back()}
-					rightTitle={'在线客服'}
-					rightAction={() => this.cuserRef && this.cuserRef.show()}
+					// rightTitle={'在线客服'}
+					// rightAction={() => this.cuserRef && this.cuserRef.show()}
 				/>
 				<View style={FeedbackStyle.textareaWrap}>
 					<Text style={FeedbackStyle.showTextareaLength}>
