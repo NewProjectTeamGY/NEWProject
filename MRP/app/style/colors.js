@@ -31,7 +31,7 @@ const text = {
 };
 
 const background = {
-	mainBg: '#FC6E2A',
+	mainBg: '#4e89eb',
 	whiteBg: '#ffffff', // textPrimary
 	subGrayBg: '#e1e1e1',
 	grayBg: '#e5e5e5',
@@ -43,7 +43,7 @@ const background = {
 };
 
 const border = {
-	mainBorder: '#FC6E2A',
+	mainBorder: '#4e89eb',
 	grayBorder: '#e5e5e5',
 	blueBorder: '#0386ff',
 	ironBorder: '#cccccc',
