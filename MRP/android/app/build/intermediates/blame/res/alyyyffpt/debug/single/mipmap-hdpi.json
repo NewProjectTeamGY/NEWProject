@@ -1,23 +1,11 @@
 [
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\mipmap-hdpi\\my_location.png",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\mipmap-hdpi\\my_location.png"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\mipmap-hdpi\\my_location.png",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\mipmap-hdpi\\my_location.png"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\mipmap-hdpi\\app_icon.png",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\mipmap-hdpi\\app_icon.png",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\mipmap-hdpi\\ic_launcher.png",

@@ -1,481 +1,5 @@
 [
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_optionagentgroup_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_optionagentgroup_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_dialog_input.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_dialog_input.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_line_vertical.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_line_vertical.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\refresh_custom_head.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\refresh_custom_head.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_line_horizontal.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_line_horizontal.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_activity_super.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_activity_super.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_audiot_l.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_audiot_l.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_dialog_input.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_dialog_input.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_txt_r.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_txt_r.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_helper_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_helper_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_txt_l.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_txt_l.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_activity_help.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_activity_help.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_view_result_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_view_result_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_card_manual.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_card_manual.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_itemstruct_l.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_itemstruct_l.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_zoom_imageview.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_zoom_imageview.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_media.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\common_titlebar.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\layout\\common_titlebar.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_audiot_l.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_audiot_l.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_common_title.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_common_title.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\jpush_popwin_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\jpush-react-native\\unspecified\\res\\layout\\jpush_popwin_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_media_action.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_base_webview.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_base_webview.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_get_more.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_get_more.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_title_bar.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_title_bar.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_audiot_r.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_audiot_r.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_dialog.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_dialog.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\jpush_webview_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\jpush-react-native\\unspecified\\res\\layout\\jpush_webview_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_zoom_imageview.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_zoom_imageview.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_fragment_import_result.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_fragment_import_result.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\layout_mapview.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\layout_mapview.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\layout_mapview.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\layout\\layout_mapview.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_confirm.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_confirm.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_multi_horizontal_popmenu.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_multi_horizontal_popmenu.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_simple.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_card_manual.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_card_manual.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_activity_super.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_activity_super.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_video_proof.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_video_proof.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_activity_accessible_crawler.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_activity_accessible_crawler.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_dialog_accessible_setting.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_dialog_accessible_setting.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_view_result_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_view_result_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_audiot_r.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_audiot_r.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_media.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_simple.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_common_title.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_common_title.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_activity_im.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_activity_im.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_refactor_bottom_panel.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_refactor_bottom_panel.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\redbox_item_title.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\redbox_item_title.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_line_horizontal.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_line_horizontal.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_activity_main.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_activity_main.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\dev_loading_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\dev_loading_view.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_activity_accessible_crawler.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_activity_accessible_crawler.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_itemstruct_l.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_itemstruct_l.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_base_webview.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_base_webview.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\jpush_webview_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\jpush-react-native\\unspecified\\res\\layout\\jpush_webview_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_media_action.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_confirm_pop_dialog.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_confirm_pop_dialog.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_web_error.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_web_error.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\fps_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\fps_view.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_activity_help.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_activity_help.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_refactor_bottom_panel.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_refactor_bottom_panel.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_loading.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_loading.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_default_progressbar.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_default_progressbar.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_big_media.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_activity_base.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_activity_base.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_survy_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_survy_view.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_part_time.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\item_search_bottom_result.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\layout\\item_search_bottom_result.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_dialog_agree.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_dialog_agree.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_multi_horizontal_menu_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_multi_horizontal_menu_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_emoji_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_emoji_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\launch_screen.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_imgt_l.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_imgt_l.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_multi_horizontal_popmenu.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_multi_horizontal_popmenu.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_commodity_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_commodity_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_default_progressbar.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_default_progressbar.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_helper_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_helper_item.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_imgt_r.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_imgt_r.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_line_vertical.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_line_vertical.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\item_search_bottom_result.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\item_search_bottom_result.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_agree.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_agree.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\jpush_popwin_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\jpush-react-native\\unspecified\\res\\layout\\jpush_popwin_layout.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\redbox_item_frame.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\redbox_item_frame.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_optionagentgroup_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_optionagentgroup_item.xml"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\select_dialog_item_material.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
     },
@@ -484,32 +8,24 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\redbox_item_frame.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_web_error.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_web_error.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_confirm.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_confirm.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_dialog_input.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_dialog_input.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_idcard.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_idcard.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\refresh_custom_head.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\refresh_custom_head.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_rich_item_txt.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_rich_item_txt.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_fragment_import_result.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_fragment_import_result.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_redirect.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_redirect.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_activity_super.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_activity_super.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -524,64 +40,64 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_txt_r.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_txt_r.xml"
+    },
+    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_rich_item_txt.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_rich_item_txt.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_articleactivity_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_articleactivity_view.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_view_result_item.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_view_result_item.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_loading_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_loading_view.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_card_manual.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_card_manual.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_imgt_l.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_imgt_l.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_lines.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\view_normal_refresh_footer.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\view_normal_refresh_footer.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\layout_update_dialog_progress.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\layout\\layout_update_dialog_progress.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_zoom_imageview.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_zoom_imageview.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_get_more.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_get_more.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_live.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_live.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_get_more.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_get_more.xml"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_dlg_select_singlechoice.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_dlg_select_singlechoice.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_audiot_l.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_audiot_l.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_common_title.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_common_title.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\jpush-react-native\\unspecified\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_confirm_pop_dialog.xml",
@@ -592,10 +108,6 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_emoji_item.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_survy_view.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_survy_view.xml"
     },
@@ -604,52 +116,64 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\redbox_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\redbox_view.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_base_webview.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_base_webview.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_redirect.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_redirect.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_title_bar.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_title_bar.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_audiot_r.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_audiot_r.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_fragment_screen_capture.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_fragment_screen_capture.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_dialog_accessible_setting.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_dialog_accessible_setting.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_dlg_select_singlechoice.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_dlg_select_singlechoice.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_dialog_accessible_setting.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_dialog_accessible_setting.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\dev_loading_view.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\dev_loading_view.xml"
     },
     {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_dlg_select_singlechoice.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_dlg_select_singlechoice.xml"
+    },
+    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_audio_panel.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_audio_panel.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_emoji_panel.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_emoji_panel.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_fragment_import_result.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_fragment_import_result.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_commodity_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_commodity_item.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\layout_mapview.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\layout_mapview.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_activity_base.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_activity_base.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\refresh_custom_head.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\layout\\refresh_custom_head.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_confirm.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_confirm.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_select_dialog_material.xml",
@@ -660,28 +184,20 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\fps_view.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\fps_view.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_agree.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_agree.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_video_proof.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_video_proof.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_activity_im.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_activity_im.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_activity_accessible_crawler.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_activity_accessible_crawler.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\activity_camera_portrait.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\activity_camera_portrait.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\layout_update_dialog_progress.xml",
@@ -692,6 +208,10 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_txt_l.xml"
     },
     {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
@@ -700,20 +220,24 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\redbox_item_title.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\activity_camera_portrait.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\activity_camera_portrait.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\launch_screen.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_audio_panel.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_audio_panel.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_activity_im.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_activity_im.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_refactor_bottom_panel.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_refactor_bottom_panel.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_articleactivity_view.xml",
@@ -732,6 +256,14 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.3\\res\\layout\\redbox_view.xml"
     },
     {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_line_horizontal.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_line_horizontal.xml"
+    },
+    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_idcard.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_idcard.xml"
     },
@@ -740,20 +272,24 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_emoji_panel.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_txt_r.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_txt_r.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_itemstruct_l.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_itemstruct_l.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_camera_portrait.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_camera_portrait.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_video_proof.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_video_proof.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\jpush-react-native\\unspecified\\res\\layout\\jpush_webview_layout.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_expandlayout_xml.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_expandlayout_xml.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_web_error.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_web_error.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_mode_bar.xml",
@@ -764,6 +300,14 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
     },
     {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_activity_help.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_activity_help.xml"
+    },
+    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_chat_msg_item_imgt_r.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_chat_msg_item_imgt_r.xml"
     },
@@ -772,24 +316,28 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_dialog.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_multi_horizontal_menu_item.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_multi_horizontal_menu_item.xml"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\notification_template_part_time.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_options_agentgroup_view.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_options_agentgroup_view.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_loading.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_loading.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_default_progressbar.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_default_progressbar.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_expandlayout_xml.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_expandlayout_xml.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_live.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_live.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_popup_menu_item_layout.xml",
@@ -800,24 +348,16 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_camera_portrait.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_camera_portrait.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_dialog_agree.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_dialog_agree.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_fragment_webview.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_fragment_webview.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_multi_horizontal_menu_item.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_multi_horizontal_menu_item.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_dialog_agree.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_dialog_agree.xml"
-    },
-    {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_fragment_screen_capture.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_fragment_screen_capture.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -832,28 +372,48 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_options_agentgroup_view.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\view_normal_refresh_footer.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\src\\main\\res\\layout\\view_normal_refresh_footer.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\launch_screen.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_loading.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_loading.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_multi_horizontal_popmenu.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_multi_horizontal_popmenu.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_im_commodity_item.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_im_commodity_item.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_helper_item.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_helper_item.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_line_vertical.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_line_vertical.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\moxie_client_fragment_webview.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_fragment_webview.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_title_bar.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_title_bar.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\item_search_bottom_result.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\item_search_bottom_result.xml"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\super_fragment_agree.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\layout\\super_fragment_agree.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -864,11 +424,15 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\layout\\moxie_client_activity_main.xml"
     },
     {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\common_titlebar.xml",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\layout\\common_titlebar.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\RNProjects\\qmhx\\NEWProject\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\layout\\udesk_layout_optionagentgroup_item.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\layout\\udesk_layout_optionagentgroup_item.xml"
     }
 ]
