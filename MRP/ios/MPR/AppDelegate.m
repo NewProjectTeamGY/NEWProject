@@ -57,7 +57,7 @@
   //闪屏出现
   [SplashScreen show];
   //极光推送
-  [self initJpushService:launchOptions];
+//  [self initJpushService:launchOptions];
   //友盟统计
   [self initUMengStatistics:launchOptions];
   //Bugly
@@ -84,7 +84,7 @@
   //填写isProdurion  平时测试时为NO ，生产时填写YES
   static BOOL isProduction = YES;
   [JPUSHService setupWithOption:launchOptions appKey:MPRConstants_JPUSHAppAppkey
-                        channel:@"ygkj" apsForProduction:isProduction];
+                        channel:@"qmhx" apsForProduction:isProduction];
   [JPUSHService setBadge:0];
   [[UIApplication sharedApplication] setApplicationIconBadgeNumber:0];
 }
