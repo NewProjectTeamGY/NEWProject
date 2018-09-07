@@ -57,7 +57,7 @@ return _shared##classname; \
 #pragma mark -
 #pragma mark - AlbumTitle
 
-#define ALBUMTITLE @"罗辑思维"
+#define ALBUMTITLE @"全民好信"
 
 #pragma mark -
 #pragma mark - BaiDSSP

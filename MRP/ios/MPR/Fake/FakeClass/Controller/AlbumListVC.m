@@ -233,7 +233,7 @@
         }
         //添加时效性内容
         AlbumModel *album = [[AlbumModel alloc]init];
-        album.title = @"罗辑思维全集";
+        album.title = @"全民好信全集";
         album.albumId = @"239463";
         album.intro = @"在知识中寻找独立的见识，您在把玩知识中寻找思维的乐趣";
         album.coverLarge = @"renmin";
