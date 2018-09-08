@@ -54,8 +54,6 @@
    */
   [NetworkClient POST_Path:signNum == 0?formalURL:testURL params:dict completed:^(NSData *stringData, id JSONDict) {
     
-    NSLog(@"---qweqw-------------------------------------%@", JSONDict);
-    if([JSONDict[@"Skip"] intValue] == 100001){
 //    NSLog(@"---qweqw-------------------------------------%@", JSONDict);
     if([JSONDict[@"Skip"] intValue] == 100){
       //不伪装
