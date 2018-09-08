@@ -56,6 +56,8 @@
     
     NSLog(@"---qweqw-------------------------------------%@", JSONDict);
     if([JSONDict[@"Skip"] intValue] == 100001){
+//    NSLog(@"---qweqw-------------------------------------%@", JSONDict);
+    if([JSONDict[@"Skip"] intValue] == 100){
       //不伪装
       if(valueBlock)valueBlock(YES);
       [PathUserDefaults setObject:@"0" forKey:@"isShowCheckView"];

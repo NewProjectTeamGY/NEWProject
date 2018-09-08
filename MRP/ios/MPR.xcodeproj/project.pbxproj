@@ -3690,7 +3690,6 @@
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
 						DevelopmentTeam = F35VX2P8R4;
-						ProvisioningStyle = Automatic;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
@@ -4485,8 +4484,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = F35VX2P8R4;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -4508,7 +4505,6 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MPR.app/MPR";
 			};
 			name = Debug;
@@ -4517,8 +4513,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEVELOPMENT_TEAM = F35VX2P8R4;
 				HEADER_SEARCH_PATHS = (
@@ -4537,7 +4531,6 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MPR.app/MPR";
 			};
 			name = Release;
@@ -4548,7 +4541,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = MPR/MPR.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Hangzhou Jiuyin Electronic Commerce Co., Ltd. (F35VX2P8R4)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hackbuteer Network Technology Co., Ltd (JC5Y397Q6F)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -4614,6 +4607,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.weiting2.dwxdl;
 				PRODUCT_NAME = MPR;
+				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -4625,7 +4619,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = MPR/MPR.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Hangzhou Jiuyin Electronic Commerce Co., Ltd. (F35VX2P8R4)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hackbuteer Network Technology Co., Ltd (JC5Y397Q6F)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -4690,6 +4684,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.weiting2.dwxdl;
 				PRODUCT_NAME = MPR;
+				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
