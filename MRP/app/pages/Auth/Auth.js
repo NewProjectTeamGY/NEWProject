@@ -155,7 +155,7 @@ export default class Auth extends Component {
 	// 第二步 => 调用SDK
 	runYDSDK = key => {
 		const { baseInfo, authInfo } = this.props
-		let sign = HttpRequest.isFormalServer() ? 'rrr' : 'rrd'
+		let sign = HttpRequest.isFormalServer() ? 'qmr' : 'qmd'
 		let dic = {
 			key: key,
 			uid: sign + baseInfo.uid,
