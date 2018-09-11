@@ -109,9 +109,9 @@ android {
         }
         manifestPlaceholders = [
                 JPUSH_APPKEY: "3e24848df7a153e620b95b19",
-                AMAP_KEY: "74cccd8263b2b0432f42ff3d7dbfb4ad",
-                UMENG_KEY: "5b3b5b86a40fa37603000233",
-                APP_CHANNEL : "rrkc"    //应用渠道号
+                AMAP_KEY: "0fe17c5198cd203a9a46295e0b22b46e",
+                UMENG_KEY: "5b87ade9b27b0a617f000010",
+                APP_CHANNEL : "qmhx"    //应用渠道号
         ]
         multiDexEnabled true
     }

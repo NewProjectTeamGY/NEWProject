@@ -4,12 +4,12 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\drawable-xhdpi\\app_images_tab_record.png"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi\\app_images_center_bgimgios.png",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\drawable-xhdpi\\app_images_center_bgimgios.png"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi\\app_images_home_process4.png",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\drawable-xhdpi\\app_images_home_process4.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi\\app_images_center_bgimgios.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\src\\main\\res\\drawable-xhdpi\\app_images_center_bgimgios.png"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi\\app_images_tab_auth.png",
