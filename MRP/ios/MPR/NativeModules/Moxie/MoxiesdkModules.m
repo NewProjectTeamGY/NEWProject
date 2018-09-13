@@ -9,6 +9,7 @@
 #import "MoxiesdkModules.h"
 
 #define ColorRgbAValue(rgbValue,A) [UIColor colorWithRed:((float)((rgbValue &0xFF0000) >>16))/255.0 green:((float)((rgbValue &0xFF00) >>8))/255.0 blue:((float)(rgbValue &0xFF))/255.0 alpha:A]
+#define mainColor [UIColor colorWithHexString:@"#FC6E2A"]
 //以下需要修改为您平台的信息
 //启动SDK必须的参数
 //Apikey,您的APP使用SDK的API的权限，即pub_key值

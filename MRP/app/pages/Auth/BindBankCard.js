@@ -126,6 +126,7 @@ export default class BindBankCard extends Component {
 			BankCardNumber: this.state.bankNumber.replace(/\s/g, ''),
 			BankMobile: this.state.tel
 		}
+		// console.log('---------------params', params)
 		HttpRequest.request(Types.POST, Url.CHECKBANK, params)
 			.then(responseData => {
 				this.loading.hide()
