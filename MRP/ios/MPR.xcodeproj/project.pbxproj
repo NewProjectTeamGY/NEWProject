@@ -4557,7 +4557,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODEPUSH_KEY = "";
 				CODE_SIGN_ENTITLEMENTS = MPR/MPR.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Hackbuteer Network Technology Co., Ltd (JC5Y397Q6F)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -4636,7 +4636,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODEPUSH_KEY = "S-3Zkkypu0KdgPjgHh-QZymydm6wb36c1830-367f-4f33-b7b1-92cf89693473";
 				CODE_SIGN_ENTITLEMENTS = MPR/MPR.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Hackbuteer Network Technology Co., Ltd (JC5Y397Q6F)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -4877,7 +4877,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODEPUSH_KEY = "ghj0zXP81xiXW833Xc4rnjURGPKab36c1830-367f-4f33-b7b1-92cf89693473";
 				CODE_SIGN_ENTITLEMENTS = MPR/MPR.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Hackbuteer Network Technology Co., Ltd (JC5Y397Q6F)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/Release$(EFFECTIVE_PLATFORM_NAME)";
