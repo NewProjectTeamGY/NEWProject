@@ -56,6 +56,11 @@ const General = {
 		flexGrow: 1,
 		backgroundColor: AppColors.lightGrayBg
 	},
+	listViewGray: {
+		flexGrow: 1,
+		backgroundColor: AppColors.lightGrayBg,
+		marginBottom: 65
+	},
 	wrapViewWhite: {
 		flexGrow: 1,
 		backgroundColor: AppColors.whiteBg
