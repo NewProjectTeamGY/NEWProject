@@ -257,7 +257,7 @@ typedef NS_ENUM(NSUInteger, MoxieSDKRunMode) {
  * 【网银自定义登录】
  loginCode 如网银为bankId，公积金为areaCode等，为nil时打开列表页/首页
  loginType 如网银为CREDITCARD/DEBITCARD
- 如打开网银-招商银行-信用卡-身份证登录-预填username，且隐藏其他登录方式，如下：
+ 如打开网银-Zhaoshang银行-信用卡-身份证登录-预填username，且隐藏其他登录方式，如下：
  MXLoginCustom *loginCustom = [MXLoginCustom new];
  loginCustom.loginCode = @"CMB";
  loginCustom.loginType = @"CREDITCARD";

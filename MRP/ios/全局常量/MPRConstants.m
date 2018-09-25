@@ -13,7 +13,8 @@
 
 /** 高德地图--appkey */
 //NSString *const MPRConstants_GaodeMapAppkey = @"232f6f5ab67dfe743a86cce6b9a3e180";
-NSString *const MPRConstants_GaodeMapAppkey = @"446cd55977b6d8fdee57cfef22792f6f";
+//NSString *const MPRConstants_GaodeMapAppkey = @"446cd55977b6d8fdee57cfef22792f6f";  //com.qmhx.qmhx
+NSString *const MPRConstants_GaodeMapAppkey = @"9974cec489a324c891370a4938fc61ee";    //com.weiting2.dwxdl
 
 /** 友盟统计--appkey */
 //NSString *const MPRConstants_UmSocialAppkey = @"5b3b5bc3b27b0a73810001ca";

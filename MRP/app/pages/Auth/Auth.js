@@ -58,7 +58,7 @@ export default class Auth extends Component {
 	go = path => {
 		if (!this.isGoOther()) {
 			if (path !== 'PersonalInfo') {
-				if (this.props.authInfo.IsBaseInfo === 1) {
+				if (this.props.authInfo.IsBaseInfo !== 1) {
 					toastShort('请先完成个人信息')
 				} else {
 					if (path === 'MobileAuth') {

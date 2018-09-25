@@ -79,7 +79,7 @@
 #import "ApiHeader.h"
 #import "RACEXTScope.h"
 
-
+#import "UIColor+HexString.h"
 
 #define PathUserDefaults    [NSUserDefaults standardUserDefaults]
 

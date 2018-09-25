@@ -4,7 +4,7 @@
  */
 import { Dimensions, Platform, PixelRatio } from 'react-native';
 
-const { width, height } = Dimensions.get('window');
+const { width, height } = Dimensions.get('window')
 const screenHeight = width < height ? height : width;
 const screenWidth = width < height ? width : height;
 
