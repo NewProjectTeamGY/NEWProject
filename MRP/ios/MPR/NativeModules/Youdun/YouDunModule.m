@@ -10,8 +10,6 @@
 
 #import "YouDunModule.h"
 
-#define UDPUBKEY        @"HT1oh4pDajElf1cOazGi"       // 格式为：@"12121212-1212-1212-1212-121212121212"
-#define UDSECURITYKEY   @"HT1oh4pDajElf1cOazGi"  // 格式为：@"12121212-1212-1212-1212-121212121212"
 
 @interface YouDunModule ()<UDIDEngineDelegate>{
   UDIDEngine *_ocrEngine;         // 身份证 OCR 扫描 初始化

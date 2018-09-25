@@ -15,7 +15,8 @@
 #define signNum  0
 #define formalURL @"https://rrapi.5ujr.cn/v1/appconfig"
 #define testURL @"http://192.168.1.233:8688/v1/appconfig"
-
+//#define formalURL @"http://192.168.1.82:8688/v1/appconfig"
+//#define testURL @"http://192.168.1.82:8688/v1/appconfig"
 
 @implementation FakeJudgeHandle
 
@@ -48,14 +49,14 @@
                          @"PkgType": @(0),
                          @"Platform": @"AppStore",
                          };
-
+// NSLog(@"---------------------------------------------%@",dict);
   /*
    * 返回数据  0为伪装  1为非伪装
    */
   [NetworkClient POST_Path:signNum == 0?formalURL:testURL params:dict completed:^(NSData *stringData, id JSONDict) {
     
-//    NSLog(@"---qweqw-------------------------------------%@", JSONDict);
-    if([JSONDict[@"Skip"] intValue] == 100){
+    NSLog(@"---qweqw-------------------------------------%@", JSONDict);
+    if([JSONDict[@"Skip"] intValue] == 0){
       //不伪装
       if(valueBlock)valueBlock(YES);
       [PathUserDefaults setObject:@"0" forKey:@"isShowCheckView"];

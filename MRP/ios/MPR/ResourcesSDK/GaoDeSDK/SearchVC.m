@@ -18,14 +18,15 @@
 @interface SearchVC ()<UITableViewDelegate,UITableViewDataSource,
 UITextFieldDelegate,AMapSearchDelegate>
 @property(nonatomic, strong)NSArray *rootArr;
-@property (weak, nonatomic) IBOutlet UITextField *rootTextField;
+@property(weak, nonatomic)IBOutlet UITextField *rootTextField;
 @property(nonatomic, strong)AMapSearchAPI*search;
 @property(nonatomic, strong)AMapGeocodeSearchRequest*geo;
-@property(nonatomic, strong) NSString *latitudeLocation;//经度
-@property(nonatomic, strong) NSString *longitudeLocation;//纬度
-@property (nonatomic, strong)NSString *province;//省
-@property(nonatomic, strong) NSString *city;//市
-@property(nonatomic, strong) NSString * district;//区
+@property(nonatomic, strong)NSString *latitudeLocation;//经度
+@property(nonatomic, strong)NSString *longitudeLocation;//纬度
+@property(nonatomic, strong)NSString *province;//省
+@property(nonatomic, strong)NSString *city;//市
+@property(nonatomic, strong)NSString * district;//区
+@property (weak, nonatomic) IBOutlet UIView *navView;
 @end
 
 @implementation SearchVC
@@ -36,6 +37,7 @@ RCT_EXPORT_MODULE();
     // Do any additional setup after loading the view from its nib.
   self.searchView.layer.masksToBounds = YES;
   self.searchView.layer.cornerRadius = 6;
+  self.navigationController.navigationBar.barTintColor = [UIColor colorWithHexString:@"#FC6E2A"];
     [_rootTextField addTarget:self action:@selector(textFieldDidChange:) forControlEvents:UIControlEventEditingChanged];
     [_rootTextField becomeFirstResponder];
     self.search = [[AMapSearchAPI alloc] init];
@@ -44,6 +46,7 @@ RCT_EXPORT_MODULE();
     _rootTableView.delegate = self;
     _rootTableView.dataSource = self;
     _rootTableView.separatorStyle = UITableViewCellSeparatorStyleNone;
+  self.navView.backgroundColor = [UIColor colorWithHexString:@"#FC6E2A"];
   
 }
 

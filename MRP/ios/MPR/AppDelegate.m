@@ -90,7 +90,6 @@
 }
 //友盟统计初始化
 - (void)initUMengStatistics:(NSDictionary *)launchOptions{
-  
   [UMConfigure initWithAppkey:MPRConstants_UmSocialAppkey channel:@"AppStore"];
   [MobClick setScenarioType:E_UM_NORMAL];
 }
