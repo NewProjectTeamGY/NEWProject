@@ -125,7 +125,8 @@
 -(void)nav{
 
 //  self.navigationController.view.backgroundColor = ColorRgbValue(0x1d9ff9);
-  self.navigationController.navigationBar.barTintColor = ColorRgbValue(0x4e89eb);
+//  self.navigationController.navigationBar.barTintColor = ColorRgbValue(0x4e89eb);
+  self.navigationController.navigationBar.barTintColor = [UIColor colorWithHexString:@"#FC6E2A"];
   //[self.view setBackgroundColor:[UIColor whiteColor]];
   UIImage *aimage = [UIImage imageNamed:@"back_black"];
   UIImage *image = [aimage imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
@@ -134,7 +135,6 @@
   self.navView.layer.cornerRadius = 6;
   self.navView.frame = CGRectMake(0, 0, WIDTH, 25);
   self.navigationItem.titleView =self.navView;
-  
 }
 -(void)noti3:(NSNotification *)noti{
 	NSDictionary  *dic = [noti userInfo];
