@@ -129,3 +129,7 @@ export const MODIFY_TRADE_SEND_VCODE = 'usersmetadata/tradevcode';
 export const CHECK_VCODE = 'usersmetadata/tradepwd/verify';
 // 征信报告列表接口
 export const CREDIT_INFO_LIST = 'creditinfo/record';
+// 购买增信报告 测试
+export const REPAYMENT = 'repayment/ybpayrequest';
+// 购买增信报告 测试
+export const APPROVAL = 'loan/approval';

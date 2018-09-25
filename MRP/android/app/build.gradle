@@ -118,7 +118,7 @@ android {
 
     productFlavors {
         // 通用官网包
-        rrkc {}
+        qmhx {}
         // OPPO应用商店
         oppoyysd {}
         // 华为应用商店

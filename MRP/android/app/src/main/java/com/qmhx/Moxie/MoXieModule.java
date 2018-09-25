@@ -15,7 +15,6 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.WritableMap;
-import com.google.gson.GsonBuilder;
 import com.moxie.client.exception.MoxieException;
 import com.moxie.client.manager.MoxieCallBack;
 import com.moxie.client.manager.MoxieCallBackData;
@@ -33,7 +32,7 @@ public class MoXieModule extends ReactContextBaseJavaModule implements ActivityE
     private static final String TAG = "MoXieModule";
     private Callback mCallBack;
 
-    private String mThemeColor = "#4e89eb"; //页面主色调
+    private String mThemeColor = "#FC6E2A"; //页面主色调
     private String mBannerTxtContent = "";  //标题栏的文字描述
     private ReactApplicationContext mContext;
 
@@ -84,17 +83,17 @@ public class MoXieModule extends ReactContextBaseJavaModule implements ActivityE
                         case "carrier":
                             mBannerTxtContent = "运营商认证";
                             mxParam.setTaskType(MxParam.PARAM_TASK_CARRIER); // 功能名
-                            mxParam.setAgreementEntryText("同意《人人好信手机运营商授权协议》"); // SDK里显示的同意协议描述语
+                            mxParam.setAgreementEntryText("同意《全民好信手机运营商授权协议》"); // SDK里显示的同意协议描述语
                             break;
                         case "fund":
                             mBannerTxtContent = "公积金认证";
                             mxParam.setTaskType(MxParam.PARAM_TASK_FUND); // 功能名
-                            mxParam.setAgreementEntryText("同意《人人好信公积金授权协议》"); // SDK里显示的同意协议描述语
+                            mxParam.setAgreementEntryText("同意《全民好信公积金授权协议》"); // SDK里显示的同意协议描述语
                             break;
                         case "alipay":
                             mBannerTxtContent = "支付宝认证";
                             mxParam.setTaskType(MxParam.PARAM_TASK_ALIPAY); // 功能名
-                            mxParam.setAgreementEntryText("同意《有个金窝支付宝授权协议》"); // SDK里显示的同意协议描述语
+                            mxParam.setAgreementEntryText("同意《全民好信支付宝授权协议》"); // SDK里显示的同意协议描述语
                             break;
                     }
                 }

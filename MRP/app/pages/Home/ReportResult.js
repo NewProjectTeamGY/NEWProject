@@ -16,7 +16,6 @@ import Loading from '../../components/Loading'
 // styles
 import { General } from '../../style/index';
 import ReportResultStyle from './style/ReportResultStyle';
-
 export default class ReportResult extends Component {
 	constructor (props) {
 		super(props)
@@ -60,12 +59,15 @@ export default class ReportResult extends Component {
 	}
 
 	buyReport = enable => {
+		const { loanData } = this.props;
 		if (this.skip) {
 			switch (this.status) {
 				case 2:
 				case 3:
 				case 4:
 					Jump.go('JSWebView', { url: this.mCrerditUrl, tag: 'Activity', toDetail: this.toDetail, isPopTop: true })
+					// this.gobuy();
+					// this.gopost();
 					enable();
 					break;
 			}
@@ -73,6 +75,77 @@ export default class ReportResult extends Component {
 			this.toDetail(enable);
 		}
 	}
+
+	gobuy = () => {
+		let param = {
+			Username: "杨灵辉",
+			Idcardno: "331082199409229218",
+			Bankcard: "6214835896365366",
+			Phone: "18806529362",
+			ReturnMoney: 1,
+			TicketId: 1
+		}
+		HttpRequest.request(Types.POST, Url.REPAYMENT,param)
+		.then(responseData => {
+			this.loading && this.loading.hide()
+			if (responseData.Ret) {
+				switch (responseData.Ret) {
+					case 200: {
+						toastShort('请求成功1!')
+						enable && enable()
+						break
+					}
+					case 408:
+						FunctionUtils.loginOut(responseData.Msg)
+						break
+					default:
+						enable && enable()
+						responseData.Msg && toastShort(responseData.Msg)
+						break
+				}
+			}
+		})
+		.catch(error => {
+			enable && enable()
+			this.loading && this.loading.hide()
+			console.log('error', error)
+		})
+	}
+
+	gopost = () => {
+		let param = {
+			"LoanId": 77,
+			"Operator": "reconfirm",
+			"OperatorId": "2",
+			"Remark": "测试"
+		}
+		HttpRequest.request(Types.POST, Url.APPROVAL,param)
+		.then(responseData => {
+			this.loading && this.loading.hide()
+			if (responseData.Ret) {
+				switch (responseData.Ret) {
+					case 200: {
+						toastShort('请求成功2!')
+						enable && enable()
+						break
+					}
+					case 408:
+						FunctionUtils.loginOut(responseData.Msg)
+						break
+					default:
+						enable && enable()
+						responseData.Msg && toastShort(responseData.Msg)
+						break
+				}
+			}
+		})
+		.catch(error => {
+			enable && enable()
+			this.loading && this.loading.hide()
+			console.log('error', error)
+		})
+	}
+
 
 	toDetail = enable => {
 		this.loading && this.loading.show();
@@ -115,6 +188,7 @@ export default class ReportResult extends Component {
 	}
 
 	render () {
+		const { loanData } = this.props;
 		return (
 			<View style={General.wrapViewGray}>
 				<NavBarCommon title={ '信用报告'} leftAction={() => Jump.back()}/>

@@ -119,7 +119,7 @@ export default class ReportDetail extends Component {
 	}
 
 	getReport = enable => {
-		if (this.Loan) {
+		if (!this.Loan) {
 			Jump.backToTop(2);
 		} else {
 			this.loading && this.loading.show()
@@ -242,7 +242,7 @@ export default class ReportDetail extends Component {
 					<ButtonHighlight
 						title={this.BtnText}
 						buttonStyle={ReportDetaileStyle.Btn}
-						disabled={this.BtnText === '放款中' || this.InitAudit === 5 || this.InitAudit === 7}
+						// disabled={this.BtnText === '放款中' || this.InitAudit === 5 || this.InitAudit === 7}
 						onPress={this.getReport}/>
 				}
 				<Loading ref={ref => { this.loading = ref }}/>

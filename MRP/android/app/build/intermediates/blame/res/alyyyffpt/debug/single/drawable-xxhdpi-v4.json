@@ -84,12 +84,12 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xxhdpi-v4\\super_ic_close.png",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable-xxhdpi-v4\\super_ic_close.png"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xxhdpi-v4\\super_ic_close.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable-xxhdpi-v4\\super_ic_close.png"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
@@ -140,12 +140,12 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable-xxhdpi-v4\\moxie_client_banner_refresh_black.png"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
