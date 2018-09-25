@@ -70,7 +70,10 @@ export default class BindBankCard extends Component {
 			// 预留手机号输入框样式
 			telInputStyle: BindBankCardStyle.cellInputStyle,
 			// 验证码输入框样式
-			codeInputStyle: BindBankCardStyle.cellInputStyleCenter
+			codeInputStyle: BindBankCardStyle.cellInputStyleCenter,
+			// 一个值
+			requestno: '',
+			Identityid: ''
 		}
 	}
 
@@ -134,6 +137,8 @@ export default class BindBankCard extends Component {
 						case 200:
 							!!this.codeInput && this.codeInput.focus()
 							this.GetCodeButtonRef.countDown()
+							this.state.requestno = responseData.NoOrder
+							this.state.Identityid = responseData.Identityid
 							break
 						case 408:
 							FunctionUtils.loginOut(responseData.Msg)
@@ -193,7 +198,9 @@ export default class BindBankCard extends Component {
 			BankName: this.state.bankName,
 			BankCardNumber: this.state.bankNumber.replace(/\s/g, ''),
 			BankMobile: this.state.tel,
-			VerifyCode: this.state.code
+			VerifyCode: this.state.code,
+			NoOrder: this.state.requestno,
+			Identityid: this.state.Identityid
 		}
 		HttpRequest.request(Types.POST, Url.BINDCARD, params)
 			.then(responseData => {
