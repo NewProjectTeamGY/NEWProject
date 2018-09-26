@@ -3,9 +3,13 @@
  *
  */
 'use strict';
+
+import {
+	Platform
+} from 'react-native';
 import AppColors from './colors';
 import AppFonts from './fonts';
-import AppSizes, { RatiocalWidth, RatiocalHeight, RatiocalFontSize, Platform } from './sizes';
+import AppSizes, { RatiocalWidth, RatiocalHeight, RatiocalFontSize } from './sizes';
 
 const General = {
 	Model: {
