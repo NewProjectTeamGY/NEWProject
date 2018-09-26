@@ -83,6 +83,8 @@
 
 #define PathUserDefaults    [NSUserDefaults standardUserDefaults]
 
+#define SDKMainColor [UIColor colorWithHexString:@"#FC6E2A"]
+
 ////e签宝
 //#import "TVSignFramework/TVSignFramework.h"
 ////阿里云

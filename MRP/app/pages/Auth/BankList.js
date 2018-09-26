@@ -80,7 +80,7 @@ export default class BankList extends Component {
 
 	render () {
 		return (
-			<View style={General.wrapViewGray}>
+			<View style={General.listViewGray}>
 				<NavBarCommon title={'绑定银行卡'} leftAction={() => { Jump.back() }} />
 				<ListView
 					enableEmptySections={true}
