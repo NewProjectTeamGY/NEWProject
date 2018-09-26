@@ -9,7 +9,7 @@
 #import "MoxiesdkModules.h"
 
 #define ColorRgbAValue(rgbValue,A) [UIColor colorWithRed:((float)((rgbValue &0xFF0000) >>16))/255.0 green:((float)((rgbValue &0xFF00) >>8))/255.0 blue:((float)(rgbValue &0xFF))/255.0 alpha:A]
-#define mainColor [UIColor colorWithHexString:@"#FC6E2A"]
+
 //以下需要修改为您平台的信息
 //启动SDK必须的参数
 //Apikey,您的APP使用SDK的API的权限，即pub_key值
@@ -219,7 +219,8 @@ RCT_EXPORT_METHOD(moxie:(NSDictionary *)dic callback:(RCTResponseSenderBlock)cal
 
   
   //-------------更多自定义参数，请参考文档----------------//
-  [MoxieSDK shared].themeColor = ColorRgbAValue(0x4e89eb, 1);//主题颜色
+//  [MoxieSDK shared].themeColor = ColorRgbAValue(0x4e89eb, 1);//主题颜色
+  [MoxieSDK shared].themeColor = SDKMainColor;//主题颜色
   [MoxieSDK shared].loadingViewText = [NSString stringWithFormat:@"数据加载中,请耐心加载"];
 
 };
@@ -272,7 +273,8 @@ RCT_EXPORT_METHOD(moxie:(NSDictionary *)dic callback:(RCTResponseSenderBlock)cal
   //Navbar是否透明
   [MoxieSDK shared].navigationController.navigationBar.translucent = NO;
   //NavBar背景色
-  [MoxieSDK shared].navigationController.navigationBar.barTintColor = ColorRgbAValue(0x4e89eb, 1);
+//  [MoxieSDK shared].navigationController.navigationBar.barTintColor = ColorRgbAValue(0x4e89eb, 1);
+  [MoxieSDK shared].navigationController.navigationBar.barTintColor = SDKMainColor;
   //按钮文字和图片颜色
   [MoxieSDK shared].navigationController.navigationBar.tintColor = [UIColor whiteColor];
   //Title文字颜色

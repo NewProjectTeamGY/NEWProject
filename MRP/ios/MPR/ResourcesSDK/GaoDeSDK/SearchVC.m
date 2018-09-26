@@ -37,7 +37,7 @@ RCT_EXPORT_MODULE();
     // Do any additional setup after loading the view from its nib.
   self.searchView.layer.masksToBounds = YES;
   self.searchView.layer.cornerRadius = 6;
-  self.navigationController.navigationBar.barTintColor = [UIColor colorWithHexString:@"#FC6E2A"];
+  self.navigationController.navigationBar.barTintColor = SDKMainColor;
     [_rootTextField addTarget:self action:@selector(textFieldDidChange:) forControlEvents:UIControlEventEditingChanged];
     [_rootTextField becomeFirstResponder];
     self.search = [[AMapSearchAPI alloc] init];
@@ -46,7 +46,7 @@ RCT_EXPORT_MODULE();
     _rootTableView.delegate = self;
     _rootTableView.dataSource = self;
     _rootTableView.separatorStyle = UITableViewCellSeparatorStyleNone;
-  self.navView.backgroundColor = [UIColor colorWithHexString:@"#FC6E2A"];
+  self.navView.backgroundColor = SDKMainColor;
   
 }
 
