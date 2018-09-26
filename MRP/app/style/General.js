@@ -5,7 +5,7 @@
 'use strict';
 import AppColors from './colors';
 import AppFonts from './fonts';
-import AppSizes, { RatiocalWidth, RatiocalHeight, RatiocalFontSize } from './sizes';
+import AppSizes, { RatiocalWidth, RatiocalHeight, RatiocalFontSize, Platform } from './sizes';
 
 const General = {
 	Model: {
@@ -59,7 +59,7 @@ const General = {
 	listViewGray: {
 		flexGrow: 1,
 		backgroundColor: AppColors.lightGrayBg,
-		marginBottom: 65
+		marginBottom: Platform.OS === 'ios' ? RatiocalWidth(65) : 0
 	},
 	wrapViewWhite: {
 		flexGrow: 1,
