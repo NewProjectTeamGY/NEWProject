@@ -89,7 +89,7 @@ export default class Center extends Component {
 						isLast styleType={2}
 						mediaImg={require('../../images/Center_question.png')} title={'帮助中心'}
 						clickCell={() => Jump.go('JSWebView', {
-							showCuser: true,
+							showCuser: false,
 							url: baseInfo.CenterData.ProblemUrl
 						})}
 						titleTextStyle={CenterStyle.cellText}

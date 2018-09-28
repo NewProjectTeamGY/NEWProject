@@ -184,7 +184,7 @@ export default class JSWebView extends Component {
 					automaticallyAdjustContentInsets={true}
 					onNavigationStateChange={this._onNavigationStateChange}
 					bounces={false}
-					scalesPageToFit={true}
+					// scalesPageToFit={false}
 					scrollEnabled={true}
 				/>
 				<CustomerService
