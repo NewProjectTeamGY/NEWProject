@@ -17,14 +17,14 @@ export function Initialize (baseInfo, authInfo) {
 		if (authInfo.Sm.VerifyRealName && authInfo.Sm.VerifyRealName !== '' && authInfo.Sm.VerifyRealName.length > 1) {
 			nickName = authInfo.Sm.VerifyRealName.substr(0, 1) + (authInfo.Sm.Sex === '' ? authInfo.Sm.VerifyRealName.substr(1) : authInfo.Sm.Sex === '男' ? '先生-' : '女士-') + baseInfo.account
 		} else {
-			nickName = '人人好信-' + baseInfo.account
+			nickName = '全民好信-' + baseInfo.account
 		}
 
 		let customer = {
 			sdkToken: baseInfo.uid + '',
 			nickName: nickName,
 			cellphone: baseInfo.account,
-			customerDescription: '人人好信用户' + baseInfo.uid
+			customerDescription: '全民好信用户' + baseInfo.uid
 		};
 
 		Udesk.Initialize(JSON.stringify(config), JSON.stringify(customer))
@@ -33,11 +33,11 @@ export function Initialize (baseInfo, authInfo) {
 		if (authInfo.Sm.VerifyRealName && authInfo.Sm.VerifyRealName !== '' && authInfo.Sm.VerifyRealName.length > 1) {
 			nickName = authInfo.Sm.VerifyRealName.substr(0, 1) + (authInfo.Sm.Sex === '' ? authInfo.Sm.VerifyRealName.substr(1) : authInfo.Sm.Sex === '男' ? '先生-' : '女士-') + baseInfo.account
 		} else {
-			nickName = '人人好信-' + baseInfo.account
+			nickName = '全民好信-' + baseInfo.account
 		}
 
 		Udesk.initialize(Domain, AppKey, AppId);
-		Udesk.setUserInfo(baseInfo.uid, nickName, baseInfo.account, '人人好信用户' + baseInfo.uid)
+		Udesk.setUserInfo(baseInfo.uid, nickName, baseInfo.account, '全民好信用户' + baseInfo.uid)
 	}
 }
 
@@ -53,7 +53,7 @@ export function UpdateCustomerInfo (baseInfo, authInfo) {
 			sdkToken: baseInfo.uid,
 			nickName: nickName,
 			cellphone: baseInfo.account,
-			customerDescription: '人人好信用户' + baseInfo.uid
+			customerDescription: '全民好信用户' + baseInfo.uid
 		};
 
 		Udesk.UpdateCustomerInfo(JSON.stringify(customer))
@@ -63,7 +63,7 @@ export function UpdateCustomerInfo (baseInfo, authInfo) {
 			nickName = authInfo.Sm.VerifyRealName.substr(0, 1) + (authInfo.Sm.Sex === '' ? authInfo.Sm.VerifyRealName.substr(1) : authInfo.Sm.Sex === '男' ? '先生' : '女士')
 		}
 		Udesk.logoutUdesk();
-		Udesk.setUserInfo(baseInfo.uid, nickName, baseInfo.account, '人人好信用户' + baseInfo.uid)
+		Udesk.setUserInfo(baseInfo.uid, nickName, baseInfo.account, '全民好信用户' + baseInfo.uid)
 	}
 }
 // 获取未读信息数量
