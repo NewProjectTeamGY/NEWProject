@@ -46,7 +46,7 @@
   UIViewController *rootViewController = [UIViewController new];
   rootViewController.view = rootView;
   _rootVC = rootViewController;
-//    self.window.rootViewController = rootViewController;
+//    self.window.rootViewController = _rootVC;
 //    [self.window makeKeyAndVisible];
   
   
