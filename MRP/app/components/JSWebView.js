@@ -150,7 +150,6 @@ export default class JSWebView extends Component {
 	// 导航栏状态发生变化
 	_onNavigationStateChange = navState => {
 		const webviewRef = this.webviewRef;
-
 		console.log('webviewRef: ' + webviewRef);
 		console.log('url地址：' + navState.url);
 		console.log('url标题：' + navState.title);
@@ -183,9 +182,7 @@ export default class JSWebView extends Component {
 					onMessage={this.onMessage}
 					automaticallyAdjustContentInsets={true}
 					onNavigationStateChange={this._onNavigationStateChange}
-					bounces={false}
-					// scalesPageToFit={false}
-					scrollEnabled={true}
+					bounces={false}scrollEnabled={true}
 				/>
 				<CustomerService
 					ref={ref => { this.cuserRef = ref }}
