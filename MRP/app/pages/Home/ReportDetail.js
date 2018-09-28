@@ -119,7 +119,7 @@ export default class ReportDetail extends Component {
 	}
 
 	getReport = enable => {
-		if (!this.Loan) {
+		if (this.Loan) {
 			Jump.backToTop(2);
 		} else {
 			this.loading && this.loading.show()

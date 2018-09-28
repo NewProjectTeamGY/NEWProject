@@ -388,7 +388,7 @@ export default class LoanApplication extends Component {
 						marginRight: RatiocalWidth(30),
 						marginLeft: RatiocalWidth(30)
 					}}/>
-				<Text style={{
+				{/* <Text style={{
 					color: AppColors.grayColor,
 					fontSize: RatiocalFontSize(24),
 					textAlign: 'center',
@@ -401,7 +401,7 @@ export default class LoanApplication extends Component {
 						onPress={() => { this.AgreementsSelector.show(); }}>
 						{'《借款服务相关合同》'}
 					</Text>
-				</Text>
+				</Text> */}
 				<GeneralSelector
 					ref={ref => { this.timeSelector = ref }}
 					cancelBtnVisible
