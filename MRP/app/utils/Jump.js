@@ -18,8 +18,9 @@ export default class Jump {
 
 	// 页面前进
 	static go (path, params, guestures = Navigator.SceneConfigs.FloatFromRight.gestures) {
-		console.log(`path: ${path}`);
+		console.log(`--------path: ${path}`);
 		console.log(params);
+		console.log(Navigator.SceneConfigs.FloatFromRight.gestures);
 		// InteractionManager.runAfterInteractions(() => {
 		this.navigator.push({
 			name: path,
