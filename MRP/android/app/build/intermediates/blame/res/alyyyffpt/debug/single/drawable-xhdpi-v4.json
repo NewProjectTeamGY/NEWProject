@@ -328,12 +328,12 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi-v4\\super_camera.png",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable-xhdpi-v4\\super_camera.png"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi-v4\\udesk_009.png",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\UdeskSDKUI\\unspecified\\res\\drawable-xhdpi-v4\\udesk_009.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi-v4\\super_camera.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable-xhdpi-v4\\super_camera.png"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi-v4\\udesk_im_record_left_play2.png",
@@ -496,12 +496,12 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi-v4\\super_mask_avatar.9.png",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable-xhdpi-v4\\super_mask_avatar.9.png"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi-v4\\super_mask_avatar.9.png",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable-xhdpi-v4\\super_mask_avatar.9.png"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable-xhdpi-v4\\udesk_cancle_audio.png",

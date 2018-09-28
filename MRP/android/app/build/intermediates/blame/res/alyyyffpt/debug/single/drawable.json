@@ -120,12 +120,12 @@
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_accessible_btn_bg_disable.xml"
     },
     {
-        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_gray.xml",
-        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_gray.xml"
-    },
-    {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_client_onlinebank_time.png",
         "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\moxie-client-2.3.5\\res\\drawable\\moxie_client_onlinebank_time.png"
+    },
+    {
+        "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\super_oval_gray.xml",
+        "source": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\exploded-aar\\RRKC\\idsafesV43ll20180531\\unspecified\\res\\drawable\\super_oval_gray.xml"
     },
     {
         "merged": "E:\\RNProjects\\qmhx\\MRP\\android\\app\\build\\intermediates\\res\\merged\\alyyyffpt\\debug\\drawable\\moxie_main_bg.xml",

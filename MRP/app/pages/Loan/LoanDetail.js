@@ -153,7 +153,7 @@ export default class LoanDetail extends Component {
 							title={'逾期费'} titleTextStyle={LoanStyle.cellTitleStyle}
 							value={(this.state.LoanDetail.OverdueMoneyAmount + this.state.LoanDetail.OverdueBreachOfAmount).toFixed(2)} />
 						}
-						<Cell
+						{/* <Cell
 							wrapperBtnStyle={[General.loanCellWrapperStyle, General.mt20]}
 							isFirst isLast title={'借款合同'} titleTextStyle={LoanStyle.cellTitleStyle}
 							value={'请查看'}
@@ -163,7 +163,7 @@ export default class LoanDetail extends Component {
 								} else {
 									toastShort('协议数据异常')
 								}
-							}}/>
+							}}/> */}
 					</ScrollView>
 				</View>
 				}
