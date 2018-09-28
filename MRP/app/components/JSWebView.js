@@ -170,9 +170,9 @@ export default class JSWebView extends Component {
 			<View style={{ flexGrow: 1, backgroundColor: '#ffffff' }}>
 				<NavBarCommon
 					title={this.state.title}
-					leftAction={() => this.back()}
-					rightTitle={this.props.showCuser ? '在线客服' : ''}
-					rightAction={() => this.cuserRef && this.cuserRef.show()}/>
+					leftAction={() => this.back()}/>
+					{/* rightTitle={this.props.showCuser ? '在线客服' : ''}
+					rightAction={() => this.cuserRef && this.cuserRef.show()} */}
 				<WebView
 					ref={ref => { this.webviewRef = ref }}
 					style={{ backgroundColor: '#ffffff' }}

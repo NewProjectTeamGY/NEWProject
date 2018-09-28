@@ -302,7 +302,7 @@ export default class Loan extends Component {
 								title={'逾期费'} titleTextStyle={LoanStyle.cellTitleStyle}
 								value={(loanData.Loan.LoanDetail.OverdueMoneyAmount + loanData.Loan.LoanDetail.OverdueBreachOfAmount).toFixed(2)}/>
 							}
-							<Cell
+							{/* <Cell
 								wrapperBtnStyle={[General.loanCellWrapperStyle, General.mt20]}
 								isFirst isLast
 								title={'借款合同'} titleTextStyle={LoanStyle.cellTitleStyle}
@@ -313,7 +313,7 @@ export default class Loan extends Component {
 									} else {
 										toastShort('协议数据异常')
 									}
-								}}/>
+								}}/> */}
 							{loanData.Loan.Loan.State === 'BACKING' &&
 							<ButtonHighlight
 								title={'立即还款'}
@@ -345,11 +345,11 @@ export default class Loan extends Component {
 					BankName={loanData.Loan.Backcard.BankName}
 					CardNumber={loanData.Loan.Backcard.CardNumber.slice(-4)}
 					toPayBank={() => { this.payboxRef && this.payboxRef.MyKeyboard.enterAnimate() }}
-					toAliTransfer={() => {
-						Jump.go('JSWebView', { url: baseInfo.alipayUrl, tag: 'AliTransfer' })
-						this.payboxRef && this.payboxRef.hide();
-					}}
-					showAliTransfer={loanData.Loan.ZhiFBState}
+					// toAliTransfer={() => {
+					// 	Jump.go('JSWebView', { url: baseInfo.alipayUrl, tag: 'AliTransfer' })
+					// 	this.payboxRef && this.payboxRef.hide();
+					// }}
+					// showAliTransfer={loanData.Loan.ZhiFBState}
 					toPay={this.pay}/>
 				}
 				<Alert

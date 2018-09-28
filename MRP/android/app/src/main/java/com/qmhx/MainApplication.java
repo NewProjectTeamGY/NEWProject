@@ -44,7 +44,7 @@ public class MainApplication extends Application implements ReactApplication {
         protected List<ReactPackage> getPackages() {
             return Arrays.<ReactPackage>asList(
                     new MainReactPackage(),
-                    new CodePush("6k6_i-zyh4LAId8bOYy5yOZJJkWLba48ea16-4f15-4335-9884-d2b76ae76f38",  MainApplication.this, BuildConfig.DEBUG),
+                    new CodePush("d08c29c8-bf33-42c0-847b-eba3d524728d",  MainApplication.this, BuildConfig.DEBUG),
                     new MyReactPackage(),
                     new LinearGradientPackage(),
                     new AMapLocationPackage(),
