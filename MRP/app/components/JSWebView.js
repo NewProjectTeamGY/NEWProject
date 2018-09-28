@@ -150,7 +150,6 @@ export default class JSWebView extends Component {
 	// 导航栏状态发生变化
 	_onNavigationStateChange = navState => {
 		const webviewRef = this.webviewRef;
-
 		console.log('webviewRef: ' + webviewRef);
 		console.log('url地址：' + navState.url);
 		console.log('url标题：' + navState.title);
@@ -170,9 +169,9 @@ export default class JSWebView extends Component {
 			<View style={{ flexGrow: 1, backgroundColor: '#ffffff' }}>
 				<NavBarCommon
 					title={this.state.title}
-					leftAction={() => this.back()}
-					rightTitle={this.props.showCuser ? '在线客服' : ''}
-					rightAction={() => this.cuserRef && this.cuserRef.show()}/>
+					leftAction={() => this.back()}/>
+					{/* rightTitle={this.props.showCuser ? '在线客服' : ''}
+					rightAction={() => this.cuserRef && this.cuserRef.show()} */}
 				<WebView
 					ref={ref => { this.webviewRef = ref }}
 					style={{ backgroundColor: '#ffffff' }}
@@ -183,9 +182,7 @@ export default class JSWebView extends Component {
 					onMessage={this.onMessage}
 					automaticallyAdjustContentInsets={true}
 					onNavigationStateChange={this._onNavigationStateChange}
-					bounces={false}
-					scalesPageToFit={true}
-					scrollEnabled={true}
+					bounces={false}scrollEnabled={true}
 				/>
 				<CustomerService
 					ref={ref => { this.cuserRef = ref }}

@@ -89,10 +89,10 @@ android {
             storeFile file('../keystores/debug.keystore.jks')
         }
         release {
-            keyAlias 'rrkc_alias'
-            keyPassword 'rrkc_android'
-            storeFile file('../keystores/rrkc_keystore.jks')
-            storePassword 'rrygjf_android'
+            keyAlias 'qmhx'
+            keyPassword '123456'
+            storeFile file('../keystores/qmhx_keystore.jks')
+            storePassword '123456'
         }
     }
     compileSdkVersion 23

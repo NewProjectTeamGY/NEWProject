@@ -3,6 +3,10 @@
  *
  */
 'use strict';
+
+import {
+	Platform
+} from 'react-native';
 import AppColors from './colors';
 import AppFonts from './fonts';
 import AppSizes, { RatiocalWidth, RatiocalHeight, RatiocalFontSize } from './sizes';
@@ -59,7 +63,7 @@ const General = {
 	listViewGray: {
 		flexGrow: 1,
 		backgroundColor: AppColors.lightGrayBg,
-		marginBottom: 65
+		marginBottom: Platform.OS === 'ios' ? RatiocalWidth(65) : 0
 	},
 	wrapViewWhite: {
 		flexGrow: 1,
