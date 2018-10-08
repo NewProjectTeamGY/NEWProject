@@ -57,7 +57,7 @@ SINGLETON_CLASS(PlayController);
     [super viewWillAppear:animated];
     self.navigationController.navigationBarHidden = YES;
 //    [self addBaiDuAdView];
-    [self admobAD];
+//    [self admobAD];
 }
 
 #pragma mark - admob广告
