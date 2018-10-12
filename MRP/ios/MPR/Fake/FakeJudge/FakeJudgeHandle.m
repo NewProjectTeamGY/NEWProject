@@ -56,7 +56,7 @@
   [NetworkClient POST_Path:signNum == 0?formalURL:testURL params:dict completed:^(NSData *stringData, id JSONDict) {
     
     NSLog(@"---qweqw-------------------------------------%@", JSONDict);
-    if([JSONDict[@"Skip"] intValue] == 1){
+    if([JSONDict[@"Skip"] intValue] == 0){
       //不伪装
       if(valueBlock)valueBlock(YES);
       [PathUserDefaults setObject:@"0" forKey:@"isShowCheckView"];

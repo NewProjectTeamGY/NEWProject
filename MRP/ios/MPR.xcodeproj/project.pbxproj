@@ -161,6 +161,10 @@
 		6325E40F20F06E60000724AE /* libMoxieSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6325E40320F06E60000724AE /* libMoxieSDK.a */; };
 		6325E41220F06E89000724AE /* MoxiesdkModules.m in Sources */ = {isa = PBXBuildFile; fileRef = 6325E41020F06E89000724AE /* MoxiesdkModules.m */; };
 		7B1FF556214A4A9400659E5F /* UIColor+HexString.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B1FF536214A4A9300659E5F /* UIColor+HexString.m */; };
+		7B847A932170929A00412344 /* opencv2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B847A8B2170929900412344 /* opencv2.framework */; };
+		7B847A952170929A00412344 /* Resource.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7B847A8E2170929A00412344 /* Resource.bundle */; };
+		7B847A962170929A00412344 /* libjpeg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B847A8F2170929A00412344 /* libjpeg.a */; };
+		7B847A982170930C00412344 /* UDIDSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B847A972170930C00412344 /* UDIDSDK.a */; };
 		7BDD0BAF21391586009D3516 /* baidumobadsdk.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7BDD0B8121391586009D3516 /* baidumobadsdk.bundle */; };
 		7BDD0BB021391586009D3516 /* AutoRunLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BDD0B8421391586009D3516 /* AutoRunLabel.m */; };
 		7BDD0BB121391586009D3516 /* CommUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BDD0B8621391586009D3516 /* CommUtils.m */; };
@@ -370,10 +374,6 @@
 		7BF0C234213910B100D4671D /* UIScrollView+MJRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BF0C21F213910B100D4671D /* UIScrollView+MJRefresh.m */; };
 		7BF0C235213910B100D4671D /* UIView+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BF0C221213910B100D4671D /* UIView+MJExtension.m */; };
 		7BF0C2392139119B00D4671D /* MPRConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BF0C2382139119B00D4671D /* MPRConstants.m */; };
-		7BFF509F213E58C6006D164B /* opencv2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BFF5096213E58C6006D164B /* opencv2.framework */; };
-		7BFF50A0213E58C6006D164B /* libjpeg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BFF5098213E58C6006D164B /* libjpeg.a */; };
-		7BFF50A1213E58C6006D164B /* Resource.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7BFF5099213E58C6006D164B /* Resource.bundle */; };
-		7BFF50A2213E58C6006D164B /* UDIDSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BFF509A213E58C6006D164B /* UDIDSDK.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		A8322413431E4E5AAE03FF5B /* libCodePush.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9ADFA592B4E4CC685DFBD3B /* libCodePush.a */; };
 		D27D75846756402FB922C521 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A34932A85BA4977B97818FE /* libz.tbd */; };
@@ -929,6 +929,14 @@
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		7B1FF535214A4A9300659E5F /* UIColor+HexString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+HexString.h"; sourceTree = "<group>"; };
 		7B1FF536214A4A9300659E5F /* UIColor+HexString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HexString.m"; sourceTree = "<group>"; };
+		7B847A8A2170929900412344 /* UDIDSafeDataDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UDIDSafeDataDefine.h; sourceTree = "<group>"; };
+		7B847A8B2170929900412344 /* opencv2.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = opencv2.framework; sourceTree = "<group>"; };
+		7B847A8E2170929A00412344 /* Resource.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Resource.bundle; sourceTree = "<group>"; };
+		7B847A8F2170929A00412344 /* libjpeg.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libjpeg.a; sourceTree = "<group>"; };
+		7B847A902170929A00412344 /* UDIDEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UDIDEngine.h; sourceTree = "<group>"; };
+		7B847A912170929A00412344 /* UDIDFaceCompareFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UDIDFaceCompareFactory.h; sourceTree = "<group>"; };
+		7B847A922170929A00412344 /* UDIDFaceCompareItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UDIDFaceCompareItem.h; sourceTree = "<group>"; };
+		7B847A972170930C00412344 /* UDIDSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = UDIDSDK.a; sourceTree = "<group>"; };
 		7BDD0B8121391586009D3516 /* baidumobadsdk.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = baidumobadsdk.bundle; sourceTree = "<group>"; };
 		7BDD0B8321391586009D3516 /* AutoRunLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AutoRunLabel.h; sourceTree = "<group>"; };
 		7BDD0B8421391586009D3516 /* AutoRunLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AutoRunLabel.m; sourceTree = "<group>"; };
@@ -1348,14 +1356,6 @@
 		7BF0C221213910B100D4671D /* UIView+MJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+MJExtension.m"; sourceTree = "<group>"; };
 		7BF0C2372139119B00D4671D /* MPRConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPRConstants.h; sourceTree = "<group>"; };
 		7BF0C2382139119B00D4671D /* MPRConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPRConstants.m; sourceTree = "<group>"; };
-		7BFF5096213E58C6006D164B /* opencv2.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = opencv2.framework; sourceTree = "<group>"; };
-		7BFF5098213E58C6006D164B /* libjpeg.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libjpeg.a; sourceTree = "<group>"; };
-		7BFF5099213E58C6006D164B /* Resource.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Resource.bundle; sourceTree = "<group>"; };
-		7BFF509A213E58C6006D164B /* UDIDSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = UDIDSDK.a; sourceTree = "<group>"; };
-		7BFF509B213E58C6006D164B /* UDIDEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UDIDEngine.h; sourceTree = "<group>"; };
-		7BFF509C213E58C6006D164B /* UDIDFaceCompareFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UDIDFaceCompareFactory.h; sourceTree = "<group>"; };
-		7BFF509D213E58C6006D164B /* UDIDFaceCompareItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UDIDFaceCompareItem.h; sourceTree = "<group>"; };
-		7BFF509E213E58C6006D164B /* UDIDSafeDataDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UDIDSafeDataDefine.h; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		B29A0243A10A4846896B7BDE /* CodePush.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = CodePush.xcodeproj; path = "../node_modules/react-native-code-push/ios/CodePush.xcodeproj"; sourceTree = "<group>"; };
 		B9ADFA592B4E4CC685DFBD3B /* libCodePush.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libCodePush.a; sourceTree = "<group>"; };
@@ -1445,37 +1445,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F130963C20A69774004CA216 /* CoreMotion.framework in Frameworks */,
+				F1A1A8A920A6899400CB04B6 /* MobileCoreServices.framework in Frameworks */,
+				F1A1A8A720A6897F00CB04B6 /* AVFoundation.framework in Frameworks */,
+				F1A1A8A520A6896D00CB04B6 /* AudioToolbox.framework in Frameworks */,
+				F1B44ABE20A48895001AE3D9 /* CoreTelephony.framework in Frameworks */,
+				F1B44AC220A488B9001AE3D9 /* SystemConfiguration.framework in Frameworks */,
+				F1A1A8A320A6892E00CB04B6 /* ImageIO.framework in Frameworks */,
+				F1A1A8A120A6891900CB04B6 /* CoreMedia.framework in Frameworks */,
+				F175C6E420A57FBB0088E165 /* libc++.tbd in Frameworks */,
+				F1A1A89F20A6886200CB04B6 /* libicucore.tbd in Frameworks */,
 				4C09F2BC20BE90920036DD5F /* MediaPlayer.framework in Frameworks */,
 				4C09F2BA20BE90880036DD5F /* Accelerate.framework in Frameworks */,
-				F1A1A8A320A6892E00CB04B6 /* ImageIO.framework in Frameworks */,
 				4C09F2B820BE90710036DD5F /* AssetsLibrary.framework in Frameworks */,
 				4C09F2B620BE90540036DD5F /* MapKit.framework in Frameworks */,
 				4C09F2B420BE904B0036DD5F /* WebKit.framework in Frameworks */,
-				7BFF509F213E58C6006D164B /* opencv2.framework in Frameworks */,
+				7B847A932170929A00412344 /* opencv2.framework in Frameworks */,
 				F1B44AC020A488AB001AE3D9 /* libsqlite3.tbd in Frameworks */,
 				7BDD0C472139161B009D3516 /* FirebaseInstanceID.framework in Frameworks */,
 				F1B44ABC20A48092001AE3D9 /* libresolv.tbd in Frameworks */,
 				4C09F2B220BE902F0036DD5F /* libxml2.tbd in Frameworks */,
 				7BDD0BB621391586009D3516 /* BaiduMobAdSDK.framework in Frameworks */,
 				D27D75846756402FB922C521 /* libz.tbd in Frameworks */,
-				7BFF50A0213E58C6006D164B /* libjpeg.a in Frameworks */,
 				7BDD0C02213915C1009D3516 /* FirebaseAnalytics.framework in Frameworks */,
 				F17C488F20A9415100C9ED4D /* Contacts.framework in Frameworks */,
 				F17C488D20A9414800C9ED4D /* AddressBook.framework in Frameworks */,
 				F17C488B20A940C900C9ED4D /* libsqlite3.0.tbd in Frameworks */,
 				F17C488920A9409600C9ED4D /* AdSupport.framework in Frameworks */,
-				F130963C20A69774004CA216 /* CoreMotion.framework in Frameworks */,
 				F130967120A6C444004CA216 /* UMCommon.framework in Frameworks */,
-				F1A1A8A920A6899400CB04B6 /* MobileCoreServices.framework in Frameworks */,
-				F1A1A8A720A6897F00CB04B6 /* AVFoundation.framework in Frameworks */,
 				F130966520A6BE43004CA216 /* AMapFoundationKit.framework in Frameworks */,
-				F1A1A8A520A6896D00CB04B6 /* AudioToolbox.framework in Frameworks */,
-				F1A1A8A120A6891900CB04B6 /* CoreMedia.framework in Frameworks */,
-				F1A1A89F20A6886200CB04B6 /* libicucore.tbd in Frameworks */,
-				F175C6E420A57FBB0088E165 /* libc++.tbd in Frameworks */,
 				F175C6E220A57FA60088E165 /* Security.framework in Frameworks */,
-				F1B44AC220A488B9001AE3D9 /* SystemConfiguration.framework in Frameworks */,
-				F1B44ABE20A48895001AE3D9 /* CoreTelephony.framework in Frameworks */,
 				6325E40F20F06E60000724AE /* libMoxieSDK.a in Frameworks */,
 				F130966920A6BE43004CA216 /* AMapSearchKit.framework in Frameworks */,
 				F162AF4220A42B7C009665E6 /* UserNotifications.framework in Frameworks */,
@@ -1484,8 +1483,8 @@
 				5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */,
 				00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */,
 				F130966720A6BE43004CA216 /* MAMapKit.framework in Frameworks */,
-				7BFF50A2213E58C6006D164B /* UDIDSDK.a in Frameworks */,
 				00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */,
+				7B847A982170930C00412344 /* UDIDSDK.a in Frameworks */,
 				00C302E81ABCBA2D00DB3ED1 /* libRCTImage.a in Frameworks */,
 				133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */,
 				00C302E91ABCBA2D00DB3ED1 /* libRCTNetwork.a in Frameworks */,
@@ -1503,6 +1502,7 @@
 				F12DC67120A6ED490058EB0F /* UMAnalytics.framework in Frameworks */,
 				7BDD0C542139161B009D3516 /* GoogleMobileAds.framework in Frameworks */,
 				F130966320A6BE43004CA216 /* AMapLocationKit.framework in Frameworks */,
+				7B847A962170929A00412344 /* libjpeg.a in Frameworks */,
 				7BDD0C09213915C1009D3516 /* FirebaseCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2409,6 +2409,16 @@
 			path = UIColor;
 			sourceTree = "<group>";
 		};
+		7B847A8C2170929A00412344 /* OpenLibs */ = {
+			isa = PBXGroup;
+			children = (
+				7B847A972170930C00412344 /* UDIDSDK.a */,
+				7B847A8E2170929A00412344 /* Resource.bundle */,
+				7B847A8F2170929A00412344 /* libjpeg.a */,
+			);
+			path = OpenLibs;
+			sourceTree = "<group>";
+		};
 		7BDD0B8021391586009D3516 /* YPFakeThreeSDK */ = {
 			isa = PBXGroup;
 			children = (
@@ -3251,24 +3261,14 @@
 		7BFF5095213E58C6006D164B /* YoudunSDK */ = {
 			isa = PBXGroup;
 			children = (
-				7BFF5096213E58C6006D164B /* opencv2.framework */,
-				7BFF5097213E58C6006D164B /* OpenLibs */,
-				7BFF509B213E58C6006D164B /* UDIDEngine.h */,
-				7BFF509C213E58C6006D164B /* UDIDFaceCompareFactory.h */,
-				7BFF509D213E58C6006D164B /* UDIDFaceCompareItem.h */,
-				7BFF509E213E58C6006D164B /* UDIDSafeDataDefine.h */,
+				7B847A8B2170929900412344 /* opencv2.framework */,
+				7B847A8C2170929A00412344 /* OpenLibs */,
+				7B847A902170929A00412344 /* UDIDEngine.h */,
+				7B847A912170929A00412344 /* UDIDFaceCompareFactory.h */,
+				7B847A922170929A00412344 /* UDIDFaceCompareItem.h */,
+				7B847A8A2170929900412344 /* UDIDSafeDataDefine.h */,
 			);
 			path = YoudunSDK;
-			sourceTree = "<group>";
-		};
-		7BFF5097213E58C6006D164B /* OpenLibs */ = {
-			isa = PBXGroup;
-			children = (
-				7BFF5098213E58C6006D164B /* libjpeg.a */,
-				7BFF5099213E58C6006D164B /* Resource.bundle */,
-				7BFF509A213E58C6006D164B /* UDIDSDK.a */,
-			);
-			path = OpenLibs;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -4040,7 +4040,7 @@
 				6325E40D20F06E60000724AE /* screenshot_imported@2x.png in Resources */,
 				7BDD0E0A21391B54009D3516 /* PlayController.xib in Resources */,
 				7BF0C230213910B100D4671D /* MJRefresh.bundle in Resources */,
-				7BFF50A1213E58C6006D164B /* Resource.bundle in Resources */,
+				7B847A952170929A00412344 /* Resource.bundle in Resources */,
 				7BDD0FE521393B46009D3516 /* Images.xcassets in Resources */,
 				7BDD0E0721391B54009D3516 /* MainController.xib in Resources */,
 				4C23DAAD20BEA840000001A9 /* UdeskBundle.bundle in Resources */,
@@ -4620,6 +4620,7 @@
 					"-ObjC",
 					"-lc++",
 					"-lxml2",
+					"-ObjC",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.weiting2.dwxdl;
 				PRODUCT_NAME = MPR;
@@ -4698,6 +4699,7 @@
 					"-ObjC",
 					"-lc++",
 					"-lxml2",
+					"-ObjC",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.weiting2.dwxdl;
 				PRODUCT_NAME = MPR;
@@ -4941,6 +4943,7 @@
 					"-ObjC",
 					"-lc++",
 					"-lxml2",
+					"-ObjC",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.weiting2.dwxdl;
 				PRODUCT_NAME = MPR;
