@@ -10,10 +10,12 @@
 
 #import "YouDunModule.h"
 
+#define UDPUBKEY        @"HT1oh4pDajElf1cOazGi"       // 格式为：@"12121212-1212-1212-1212-121212121212"
+#define UDSECURITYKEY   @"HT1oh4pDajElf1cOazGi"  // 格式为：@"12121212-1212-1212-1212-121212121212"
 
 @interface YouDunModule ()<UDIDEngineDelegate>{
   UDIDEngine *_ocrEngine;         // 身份证 OCR 扫描 初始化
-//  UDIDEngine *_livenessEngine;    // 活体检测
+  //  UDIDEngine *_livenessEngine;    // 活体检测
   
   
   NSString *_name;
@@ -43,12 +45,12 @@
 RCT_EXPORT_MODULE(YouDunModule)
 //ocr
 RCT_EXPORT_METHOD(OpenOCRSM:(NSDictionary *)postData callback:(RCTResponseSenderBlock)callback){
-	dispatch_async(dispatch_get_main_queue(), ^{
-		self.didBlcok = NO;
+  dispatch_async(dispatch_get_main_queue(), ^{
+    self.didBlcok = NO;
     [self orc:postData];
-		self.Block = callback;
-		
-	});
+    self.Block = callback;
+    
+  });
 }
 
 
@@ -87,7 +89,7 @@ RCT_EXPORT_METHOD(OpenHTFace:(NSDictionary *)postData callback:(RCTResponseSende
   _ocrEngine.showInfo = YES;
   
   /* 通用参数 */
-//  [self tycs:_ocrEngine dic:dics];
+  //  [self tycs:_ocrEngine dic:dics];
   _ocrEngine.pubKey = [NSString stringWithFormat:@"%@",dics[@"pubKey"]];
   _ocrEngine.signTime = [NSString stringWithFormat:@"%@",dics[@"signTime"]];
   _ocrEngine.partnerOrderId = [NSString stringWithFormat:@"%@",dics[@"InfOrder"]];
@@ -108,7 +110,7 @@ RCT_EXPORT_METHOD(OpenHTFace:(NSDictionary *)postData callback:(RCTResponseSende
   _ocrEngine.actions = @[[NSNumber numberWithUnsignedInteger:UDIDAuthFlowRealName]];
   
   /* 添加实名验证功能模块 */
-  _ocrEngine.verifyType = UDIDVerifyHumanType;
+  _ocrEngine.verifyType = UDIDVerifySimpleType;
   _ocrEngine.idName = [NSString stringWithFormat:@"%@",dics[@"userName"]];
   _ocrEngine.idNumber = [NSString stringWithFormat:@"%@",dics[@"card"]];
   
@@ -117,7 +119,7 @@ RCT_EXPORT_METHOD(OpenHTFace:(NSDictionary *)postData callback:(RCTResponseSende
   _ocrEngine.signTime = [NSString stringWithFormat:@"%@",dics[@"signTime"]];
   _ocrEngine.partnerOrderId = [NSString stringWithFormat:@"%@",dics[@"InfOrder"]];
   _ocrEngine.notifyUrl = [NSString stringWithFormat:@"%@",dics[@"notifyUrl"]];
-	_ocrEngine.sign = [NSString stringWithFormat:@"%@",dics[@"sign"]];
+  _ocrEngine.sign = [NSString stringWithFormat:@"%@",dics[@"sign"]];
   _ocrEngine.delegate = self;
   UIViewController *rootViewController = [UIApplication sharedApplication].keyWindow.rootViewController;
   [_ocrEngine startIdSafeAuthInViewController:rootViewController];
@@ -128,26 +130,19 @@ RCT_EXPORT_METHOD(OpenHTFace:(NSDictionary *)postData callback:(RCTResponseSende
 -(void)ht_face:(NSDictionary *)dics{
   _ocrEngine = [[UDIDEngine alloc] init];
   _ocrEngine.actions = @[[NSNumber numberWithUnsignedInteger:UDIDAuthFlowLiving],
-                              [NSNumber numberWithUnsignedInteger:UDIDAuthFlowCompare]];
-  
-  /* 活体检测相关参数 */
-  _ocrEngine.randomCount = 3;  // 随机个数
-  _ocrEngine.livingMode = UDIDLivingCommandMode;  // 枚举活体类型
-  _ocrEngine.closeRemindVoice = YES;
-  
-  _ocrEngine.isGridPhoto = YES;
-  NSString *session_id = [NSString stringWithFormat:@"%@",dics[@"session_id"]];
-  _ocrEngine.compareItemB = [UDIDFaceCompareFactory getBySessionID:session_id type:UDIDSafePhotoTypeNormal];
-  _ocrEngine.compareItemA = [UDIDFaceCompareFactory getBytype:UDIDSafePhotoTypeLiving] ;
-  /* 通用参数 */
+                         [NSNumber numberWithUnsignedInteger:UDIDAuthFlowCompare_WithoutGrid]];
 
-
+  _ocrEngine.livingMode = UDIDLivingCommandMode;
+  _ocrEngine.compareItemA = [UDIDFaceCompareFactory getBytype:UDIDSafePhotoTypeLiving];
+  _ocrEngine.compareItemB = [UDIDFaceCompareFactory getBytype:UDIDSafePhotoTypeNormal];
+  
   /* 通用参数 */
-	_ocrEngine.pubKey = [NSString stringWithFormat:@"%@",dics[@"pubKey"]];
-	_ocrEngine.signTime = [NSString stringWithFormat:@"%@",dics[@"signTime"]];
-	_ocrEngine.partnerOrderId = [NSString stringWithFormat:@"%@",dics[@"InfOrder"]];
-	_ocrEngine.notifyUrl = [NSString stringWithFormat:@"%@",dics[@"notifyUrl"]];
-	_ocrEngine.sign = [NSString stringWithFormat:@"%@",dics[@"sign"]];
+  _ocrEngine.sessionId = [NSString stringWithFormat:@"%@",dics[@"session_id"]];
+  _ocrEngine.pubKey = [NSString stringWithFormat:@"%@",dics[@"pubKey"]];
+  _ocrEngine.signTime = [NSString stringWithFormat:@"%@",dics[@"signTime"]];
+  _ocrEngine.partnerOrderId = [NSString stringWithFormat:@"%@",dics[@"InfOrder"]];
+  _ocrEngine.notifyUrl = [NSString stringWithFormat:@"%@",dics[@"notifyUrl"]];
+  _ocrEngine.sign = [NSString stringWithFormat:@"%@",dics[@"sign"]];
   _ocrEngine.delegate = self;
   UIViewController *rootViewController = [UIApplication sharedApplication].keyWindow.rootViewController;
   [_ocrEngine startIdSafeAuthInViewController:rootViewController];
@@ -158,7 +153,7 @@ RCT_EXPORT_METHOD(OpenHTFace:(NSDictionary *)postData callback:(RCTResponseSende
 #pragma mark - Delegate
 
 - (void)idSafeEngineFinishedResult:(UDIDEngineResult)result UserInfo:(id)userInfo {
-
+  
   NSLog(@" userinfo == %@",userInfo);
   if ([userInfo[@"ret_code"] isEqualToString:@"900001"] || [userInfo[@"ret_msg"] isEqualToString:@"用户取消操作"]) {
     
@@ -205,7 +200,7 @@ RCT_EXPORT_METHOD(OpenHTFace:(NSDictionary *)postData callback:(RCTResponseSende
       default:
         break;
     }
-
+    
   }
 }
 

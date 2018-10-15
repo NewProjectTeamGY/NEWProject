@@ -122,8 +122,8 @@
     self.view.backgroundColor = RGB(230, 227, 219);
     
 //    [self addBaiDuAdView];
-    [self admobAD];
-    
+//    [self admobAD];
+  
     self.navigationItem.rightBarButtonItem = [LMButton setNavright:@"反馈" andcolor:[UIColor whiteColor] andSelector:@selector(pushAppStore) andTarget:self];
 
     [self layoutUI];

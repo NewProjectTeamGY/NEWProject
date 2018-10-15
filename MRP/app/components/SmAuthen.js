@@ -309,7 +309,10 @@ export default class SmAuthen {
 					switch (responseData.Ret) {
 						case 200:
 							// 上传成功后进行下一步活体+对比
-							this.sessionId = responseData.SessionId
+							this.sessionId = responseData.SessionId,
+							this.Name = responseData.IDName,
+							this.IdCard = responseData.Idcard
+							console.log('sessionId-------------------', this.sessionId)
 							this.getSign('ht')
 							break
 						case 408:
@@ -338,10 +341,11 @@ export default class SmAuthen {
 		let data = {
 			...this.baseParams,
 			notifyUrl: this.LivingsCallback,
-			session_id: this.sessionId
+			session_id: this.sessionId,
+			idName: this.Name,
+			idNumber: this.IdCard
 			// isGridPhoto: this.isGridPhoto
 		}
-		console.log(data)
 		if (Platform.OS === 'ios') {
 			YouDunModule.OpenHTFace(data, callBack => {
 				console.log('调活体SDK 222+++++++++++++++++++++= ios')
@@ -368,6 +372,7 @@ export default class SmAuthen {
 			}, 1500)
 		} else {
 			// 安卓活体+对比
+			console.log("sessionlive----"+data.session_id)
 			YouDunModule.getLiveAndCompaierAndroid(JSON.stringify(data), callback => {
 				console.log('调活体SDK 222+++++++++++++++++++++= android')
 				this.pointer.loading.hide()
@@ -380,10 +385,10 @@ export default class SmAuthen {
 							a.Living.success = true
 							this.getLocation(a)
 						} else {
-							this.CallBack({ ErrCode: 0, Msg: '认证失败,请重试' })
+							this.CallBack({ ErrCode: 0, Msg: '认证失败,请重试1' })
 						}
 					} else {
-						this.CallBack({ ErrCode: 0, Msg: '认证失败,请重试' })
+						this.CallBack({ ErrCode: 0, Msg: '认证失败,请重试2' })
 					}
 				} else {
 					this.CallBack({ ErrCode: -999, Msg: '' })// 用户取消操作

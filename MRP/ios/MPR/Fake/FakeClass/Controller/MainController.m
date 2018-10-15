@@ -39,8 +39,8 @@ static NSInteger i = 0;
 {
     [super viewWillAppear:animated];
     
-    [self admobAD];
-    
+//    [self admobAD];
+  
     self.navigationController.navigationBarHidden = NO;
     
     [self.mainTbView reloadData];
@@ -186,7 +186,7 @@ static NSInteger i = 0;
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
-    [self admobAD];
+//    [self admobAD];
 
     self.view.backgroundColor = RGB(230, 227, 219);
     self.mainTbView.backgroundColor = RGB(230, 227, 219);
