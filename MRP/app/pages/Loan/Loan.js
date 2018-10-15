@@ -300,7 +300,8 @@ export default class Loan extends Component {
 								wrapperBtnStyle={General.loanCellWrapperStyle}
 								isLast isLink={false}
 								title={'逾期费'} titleTextStyle={LoanStyle.cellTitleStyle}
-								value={(loanData.Loan.LoanDetail.OverdueMoneyAmount + loanData.Loan.LoanDetail.OverdueBreachOfAmount).toFixed(2)}/>
+								value={(loanData.Loan.LoanDetail.OverdueMoneyAmount + loanData.Loan.LoanDetail.OverdueBreachOfAmount).toFixed(2)}
+								valueTextStyle = {{color: AppColors.mainBg}}/>
 							}
 							{/* <Cell
 								wrapperBtnStyle={[General.loanCellWrapperStyle, General.mt20]}
