@@ -46,12 +46,12 @@
   UIViewController *rootViewController = [UIViewController new];
   rootViewController.view = rootView;
   _rootVC = rootViewController;
-//    self.window.rootViewController = _rootVC;
-//    [self.window makeKeyAndVisible];
+    self.window.rootViewController = _rootVC;
+    [self.window makeKeyAndVisible];
   
   
-  [self fakeAction];
-  [self reachabilityChanged];
+//  [self fakeAction];
+//  [self reachabilityChanged];
  
   
   //闪屏出现
