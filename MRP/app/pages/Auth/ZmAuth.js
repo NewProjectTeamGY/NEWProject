@@ -41,6 +41,7 @@ export default class ZmAuth extends Component {
 	auth = enable => {
 		this.loading.show()
 		FunctionUtils.isAlipayInstall(isAlipayInstall => {
+			console.log(`AlipayUrl-----`, isAlipayInstall);
 			if (isAlipayInstall) {
 				this.loading.hide();
 				Linking.openURL(this.props.url).catch(err => {

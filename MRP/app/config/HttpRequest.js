@@ -11,7 +11,7 @@ import axios from 'axios';
 // '0' --- 测试服务器
 // '1' --- 过度服务器
 // '2' --- 正式服务器
-let isFormalServer = '0';
+let isFormalServer = '2';
 // 开发默认接口   正式服接口		http://d3e12907.ngrok.io / http://192.168.1.233:8588
 const BASEURL = isFormalServer === '2' ? 'http://192.168.1.7:8688/v1/' : 'http://47.99.73.98:8688/v1/';
 
@@ -92,6 +92,8 @@ export default class HttpRequest extends Component {
 		params.MobileType = FunctionUtils.upFirstChar(DeviceInfo.getModel());				// 手机类型
 		// MobileVersion:	string
 		params.MobileVersion = DeviceInfo.getSystemVersion();	// 手机系统版本号
+		// AppCode: 	string
+		params.AppCode = 'qmhx'		// app标识
 		// Brand: string
 		params.Brand = DeviceInfo.getBrand();
 		// PkgType:	integer ($int64)
