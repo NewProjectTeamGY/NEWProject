@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidSDKV43ll20180920/AndroidSDKV43ll20180920.iml" filepath="$PROJECT_DIR$/AndroidSDKV43ll20180920/AndroidSDKV43ll20180920.iml" />
       <module fileurl="file://$PROJECT_DIR$/RRKC.iml" filepath="$PROJECT_DIR$/RRKC.iml" />
       <module fileurl="file://$PROJECT_DIR$/UdeskSDKUI/UdeskSDKUI.iml" filepath="$PROJECT_DIR$/UdeskSDKUI/UdeskSDKUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
