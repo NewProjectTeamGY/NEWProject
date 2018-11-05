@@ -33,7 +33,7 @@ export function Initialize (baseInfo, authInfo) {
 		if (authInfo.Sm.VerifyRealName && authInfo.Sm.VerifyRealName !== '' && authInfo.Sm.VerifyRealName.length > 1) {
 			nickName = authInfo.Sm.VerifyRealName.substr(0, 1) + (authInfo.Sm.Sex === '' ? authInfo.Sm.VerifyRealName.substr(1) : authInfo.Sm.Sex === '男' ? '先生-' : '女士-') + baseInfo.account
 		} else {
-			nickName = '全名好信-' + baseInfo.account
+			nickName = '全民好信-' + baseInfo.account
 		}
 
 		Udesk.initialize(Domain, AppKey, AppId);

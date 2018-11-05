@@ -13,15 +13,15 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>$(PRODUCT_NAME)</string>
+	<string>全民好信</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.4.0</string>
+	<string>1.4.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.4.1</string>
+	<string>1.4.1.1</string>
 	<key>CodePushDeploymentKey</key>
 	<string>$(CODEPUSH_KEY)</string>
 	<key>LSRequiresIPhoneOS</key>
@@ -40,17 +40,17 @@
 		</dict>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>允许访问摄像头以获取更好的体验</string>
+	<string>获取照片，需要访问您的相机</string>
 	<key>NSContactsUsageDescription</key>
 	<string>允许访问通讯录以提高审核速度，帮助您获得更好的体验</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>在应用使用期间打开定位，可以提供精准的地域差异化服务</string>
+	<string>全民好信将获取您的位置，为您提供更精准的服务</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>允许访问麦克风能使客服帮助您更快的解决问题，以获取更好的体验</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>允许保存应用的图片能帮助您更好的体验</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>允许使用相册能帮助您更好的体验</string>
+	<string>获取图片，需求访问您的相册</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>

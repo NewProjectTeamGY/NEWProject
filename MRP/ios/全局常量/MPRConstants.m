@@ -23,7 +23,7 @@ NSString *const MPRConstants_UmSocialAppkey = @"5b87ae2da40fa33df800002e";
 
 /** 腾讯Bugly */
 //NSString *const MPRConstants_TencentAppId = @"310f11bd2f";
-NSString *const MPRConstants_TencentAppId = @"1434384840";
+NSString *const MPRConstants_TencentAppId = @"1050404758";
 
 
 /** 极光推送--appkey */

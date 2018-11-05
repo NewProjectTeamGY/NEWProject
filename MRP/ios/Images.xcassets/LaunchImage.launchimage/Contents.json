@@ -1,6 +1,38 @@
 {
   "images" : [
     {
+      "orientation" : "portrait",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "minimum-system-version" : "12.0",
+      "subtype" : "2688h",
+      "scale" : "3x"
+    },
+    {
+      "orientation" : "landscape",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "minimum-system-version" : "12.0",
+      "subtype" : "2688h",
+      "scale" : "3x"
+    },
+    {
+      "orientation" : "portrait",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "minimum-system-version" : "12.0",
+      "subtype" : "1792h",
+      "scale" : "2x"
+    },
+    {
+      "orientation" : "landscape",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "minimum-system-version" : "12.0",
+      "subtype" : "1792h",
+      "scale" : "2x"
+    },
+    {
       "extent" : "full-screen",
       "idiom" : "iphone",
       "subtype" : "2436h",
@@ -10,7 +42,23 @@
       "scale" : "3x"
     },
     {
+      "orientation" : "landscape",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "minimum-system-version" : "11.0",
+      "subtype" : "2436h",
+      "scale" : "3x"
+    },
+    {
       "orientation" : "portrait",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "minimum-system-version" : "8.0",
+      "subtype" : "736h",
+      "scale" : "3x"
+    },
+    {
+      "orientation" : "landscape",
       "idiom" : "iphone",
       "extent" : "full-screen",
       "minimum-system-version" : "8.0",
@@ -44,12 +92,23 @@
       "scale" : "2x"
     },
     {
-      "filename" : "1080x1920.png",
-      "unassigned" : true
+      "orientation" : "portrait",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "scale" : "1x"
     },
     {
-      "filename" : "1242x2208.png",
-      "unassigned" : true
+      "orientation" : "portrait",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "scale" : "2x"
+    },
+    {
+      "orientation" : "portrait",
+      "idiom" : "iphone",
+      "extent" : "full-screen",
+      "subtype" : "retina4",
+      "scale" : "2x"
     }
   ],
   "info" : {

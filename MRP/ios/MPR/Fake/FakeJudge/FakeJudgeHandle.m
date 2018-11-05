@@ -13,10 +13,10 @@
 
 //0为正式服  1为测试服
 #define signNum  0
-#define formalURL @"https://rrapi.5ujr.cn/v1/appconfig"
-#define testURL @"http://192.168.1.233:8688/v1/appconfig"
-//#define formalURL @"http://192.168.1.82:8688/v1/appconfig"
-//#define testURL @"http://192.168.1.82:8688/v1/appconfig"
+//#define formalURL @"https://rrapi.5ujr.cn/v1/appconfig"
+//#define testURL @"http://192.168.1.233:8688/v1/appconfig"
+#define formalURL @"http://47.99.73.98:8688/v1/appconfig"
+#define testURL @"http://192.168.1.82:8688/v1/appconfig"
 
 @implementation FakeJudgeHandle
 

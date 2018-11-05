@@ -17,14 +17,14 @@ export function Initialize (userInfo) {
 		if (userInfo.Name && userInfo.Name !== '' && userInfo.Name.length > 1) {
 			nickName = userInfo.Name.substr(0, 1) + (userInfo.Sex === '' ? userInfo.Name.substr(1) : userInfo.Sex === '男' ? '先生-' : '女士-') + userInfo.account
 		} else {
-			nickName = '有个金窝-' + userInfo.account
+			nickName = '全民好信-' + userInfo.account
 		}
 
 		let customer = {
 			sdkToken: userInfo.uid + '',
 			nickName: nickName,
 			cellphone: userInfo.account,
-			customerDescription: '有个金窝用户' + userInfo.uid
+			customerDescription: '全民好信用户' + userInfo.uid
 		};
 
 		Udesk.Initialize(JSON.stringify(config), JSON.stringify(customer))
@@ -33,11 +33,11 @@ export function Initialize (userInfo) {
 		if (userInfo.Name && userInfo.Name !== '' && userInfo.Name.length > 1) {
 			nickName = userInfo.Name.substr(0, 1) + (userInfo.Sex === '' ? userInfo.Name.substr(1) : userInfo.Sex === '男' ? '先生-' : '女士-') + userInfo.account
 		} else {
-			nickName = '有个金窝-' + userInfo.account
+			nickName = '全民好信-' + userInfo.account
 		}
 
 		Udesk.initialize(Domain, AppKey, AppId);
-		Udesk.setUserInfo(userInfo.uid, nickName, userInfo.account, '有个金窝用户' + userInfo.uid)
+		Udesk.setUserInfo(userInfo.uid, nickName, userInfo.account, '全民好信用户' + userInfo.uid)
 	}
 }
 // 更新用户信息
@@ -52,7 +52,7 @@ export function UpdateCustomerInfo (userInfo) {
 			sdkToken: userInfo.uid,
 			nickName: nickName,
 			cellphone: userInfo.account,
-			customerDescription: '有个金窝用户' + userInfo.uid
+			customerDescription: '全民好信用户' + userInfo.uid
 		};
 
 		Udesk.UpdateCustomerInfo(JSON.stringify(customer))
@@ -62,7 +62,7 @@ export function UpdateCustomerInfo (userInfo) {
 			nickName = userInfo.Name.substr(0, 1) + (userInfo.Sex === '' ? userInfo.Name.substr(1) : userInfo.Sex === '男' ? '先生' : '女士')
 		}
 		Udesk.logoutUdesk();
-		Udesk.setUserInfo(userInfo.uid, nickName, userInfo.account, '有个金窝用户' + userInfo.uid)
+		Udesk.setUserInfo(userInfo.uid, nickName, userInfo.account, '全民好信用户' + userInfo.uid)
 	}
 }
 // 获取未读信息数量
