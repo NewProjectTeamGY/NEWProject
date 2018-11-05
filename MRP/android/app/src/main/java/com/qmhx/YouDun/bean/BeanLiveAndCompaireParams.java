@@ -7,6 +7,16 @@ public class BeanLiveAndCompaireParams {
     private String InfOrder;
     private String notifyUrl;
     private String session_id;
+    private String idName;
+    private String idNumber;
+
+    public String getIdName(){return idName;}
+
+    public void setIdName(String idName) {this.idName = idName;}
+
+    public String getIdNumber(){return idNumber;}
+
+    public void setIdNumber(String idNumber) {this.idNumber = idNumber;}
 
     public String getPubKey() {
         return pubKey;

@@ -70,7 +70,7 @@ public class MainApplication extends Application implements ReactApplication {
         super.onCreate();
         SoLoader.init(this, /* native exopackage */ false);
         UMConfigure.init(this, UMConfigure.DEVICE_TYPE_PHONE, "");
-        CrashReport.initCrashReport(getApplicationContext(), "b547652fb8", false);
+        CrashReport.initCrashReport(getApplicationContext(), "0eb5b0f287", false);
         MoxieSDK.init(this);
     }
 }

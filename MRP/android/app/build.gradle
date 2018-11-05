@@ -197,19 +197,20 @@ dependencies {
     compile files('libs/umeng-analytics-7.5.1.jar')
     compile files('libs/umeng-common-1.5.1.jar')
     compile 'com.google.android.gms:play-services-gcm:+'
-    compile "com.android.support:appcompat-v7:23.4.0"
+    compile 'com.android.support:appcompat-v7:23.4.0'
     compile 'com.android.support:recyclerview-v7:23.4.0'
     compile 'com.nineoldandroids:library:2.4.0'
     compile 'com.google.code.gson:gson:2.7'
     compile 'com.android.support:support-v13:24.2.1'
-    compile "com.facebook.react:react-native:0.44.3"  // From node_modules
-    compile project(':idsafesV43ll20180531')
+    compile 'com.facebook.react:react-native:0.44.3'
+    // From node_modules
     compile project(':react-native-linear-gradient')
     compile project(':jpush-react-native')
     compile project(':jcore-react-native')
     compile project(':react-native-code-push')
-    compile project(':UdeskSDKUI')
     compile(name: 'moxie-client-2.3.5', ext: 'aar')
+    compile project(':AndroidSDKV43ll20180920')
+    compile project(':UdeskSDKUI')
 }
 
 // Run this once to be able to run the application with BUCK

@@ -23,9 +23,6 @@ import com.qmhx.YouDun.bean.BeanTrueNameParams;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 public class YouDunModule extends ReactContextBaseJavaModule {
     private static final String TAG = "YouDunModule";
     private Callback mCallBack;
@@ -105,6 +102,24 @@ public class YouDunModule extends ReactContextBaseJavaModule {
                             case AuthBuilder.OPTION_VIDEO:
                                 //// TODO:  视频存证 回调
                                 break;
+                            case AuthBuilder.OPTION_VERIFY_COMPARE:
+                                BeanPlusCallback beanPlusCallback2 = new BeanPlusCallback();
+                                beanPlusCallback2.setLiving(mLivingResult);
+                                beanPlusCallback2.setFace(result);
+                                JSONObject object2 = new JSONObject();
+                                object2.put("Face", new JSONObject(beanPlusCallback2.getFace()));
+                                object2.put("Living", new JSONObject(beanPlusCallback2.getLiving()));
+                                mCallBack.invoke(object2.toString());
+                                break;
+                            case AuthBuilder.OPTION_COMPARE_FACE:
+                                BeanPlusCallback beanPlusCallback3 = new BeanPlusCallback();
+                                beanPlusCallback3.setLiving(mLivingResult);
+                                beanPlusCallback3.setFace(result);
+                                JSONObject object3 = new JSONObject();
+                                object3.put("Face", new JSONObject(beanPlusCallback3.getFace()));
+                                object3.put("Living", new JSONObject(beanPlusCallback3.getLiving()));
+                                mCallBack.invoke(object3.toString());
+                                break;
                         }
 
                     } else {
@@ -141,7 +156,7 @@ public class YouDunModule extends ReactContextBaseJavaModule {
         BeanOrcParams beanOrcParams = new GsonBuilder().create().fromJson(params, BeanOrcParams.class);
         getAuthBuilder(beanOrcParams.getPubKey(), beanOrcParams.getSignTime(), beanOrcParams.getSign(), beanOrcParams.getInfOrder())
                 /** 添加 身份证ocr识别 模块 */
-                .addFollow(AuthComponentFactory.getOcrComponenet()
+                .addFollow(AuthComponentFactory.getOcrComponent()
                                 /**设置展示确认页面 ： 非必需 */
                                 .showConfirm(true)
                                 /**设置展示确认页面 ： 非必需 */
@@ -171,7 +186,7 @@ public class YouDunModule extends ReactContextBaseJavaModule {
                     .addFollow(AuthComponentFactory.getVerifyComponent()
                             .setNameAndNumber(beanTrueNameParams.getUserName(), beanTrueNameParams.getCard())
                             /** true:人像验证(可作为比对源参与比对) false:简项验证 */
-                            .needGridPhoto(true)
+                            .needGridPhoto(false)
                             /**设置异步通知地址 ： 非必需 */
                             .setNotifyUrl(beanTrueNameParams.getNotifyUrl())).start(getCurrentActivity());
         } catch (FormatException e) {
@@ -186,7 +201,8 @@ public class YouDunModule extends ReactContextBaseJavaModule {
      * @param liveCallback
      */
     @ReactMethod
-    public void getLiveAndCompaierAndroid(String params, Callback liveCallback) {
+    public void getLiveAndCompaierAndroid(String params, Callback liveCallback) throws FormatException {
+        Log.e("session----", params );
         mCallBack = liveCallback;
         /** 获取AuthBuilder对象 请每次开始流程获取最新对象 */
         BeanLiveAndCompaireParams beanLiveAndCompaireParams = new GsonBuilder().create().fromJson(params, BeanLiveAndCompaireParams.class);
@@ -194,18 +210,16 @@ public class YouDunModule extends ReactContextBaseJavaModule {
                 /** 添加 活体检测 模块 */
                 .addFollow(AuthComponentFactory.getLivingComponent()
                                 /** 声音开关 */
-                                .setVoiceEnable(false)
+//                                .setVoiceEnable(false)
                                 /**设置异步通知地址 ： 非必需 */
                                 .setNotifyUrl(beanLiveAndCompaireParams.getNotifyUrl())
                         //更多设置项目参见文档：http://static.udcredit.com/doc/idsafe/android/V43/index.html
                 )
 
                 /** 添加 人脸比对 模块 */
-                .addFollow(AuthComponentFactory.getCompareComponent()
-                        .setCompareItemA(CompareItemFactory.getCompareItemBySessioId(CompareItemSession.SessionType.PHOTO_LIVING))
-                        .setCompareItemB(CompareItemFactory.getCompareItemBySessioId(beanLiveAndCompaireParams.getSession_id(), CompareItemSession.SessionType.PHOTO_IDENTIFICATION))
-                        /**设置异步通知地址 ： 非必需 */
-                        .isGrid(true)
+                .addFollow(AuthComponentFactory.getCompareFaceComponent()
+                        .setCompareItemA(CompareItemFactory.getCompareItemBySessionId(beanLiveAndCompaireParams.getSession_id(),CompareItemSession.SessionType.PHOTO_IDENTIFICATION))
+                        .setCompareItemB(CompareItemFactory.getCompareItemBySessionId(CompareItemSession.SessionType.PHOTO_LIVING))
                         .setNotifyUrl(beanLiveAndCompaireParams.getNotifyUrl()))
                 /** 开始流程 */
                 .start(getCurrentActivity());
